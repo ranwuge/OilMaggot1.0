@@ -1,0 +1,750 @@
+                                        Library Search Report
+
+  Data Path : D:\2024-DATA\
+  Data File : 24-0705.D                                           
+  Acq On    : 28 Apr 2024  20:59
+  Operator  :  
+  Sample    : WTX-LIEJIEYOU
+  Misc      :  
+  ALS Vial  : 9   Sample Multiplier: 1
+
+  Search Libraries:   D:\MassHunter\Library\NIST17.L    Minimum Quality:   0
+
+  Unknown Spectrum:   Apex
+  Integration Events: ChemStation Integrator - autoint1.e
+
+Pk#     RT  Area%          Library/ID                 Ref#     CAS#   Qual
+_____________________________________________________________________________
+  1   1.794  0.09 D:\MassHunter\Library\NIST17.L
+                 Propene                                60 000115-07-1 86
+                 3-Butenoic acid                      1842 000625-38-7 72
+                 Cyclopropanecarboxylic acid          1867 001759-53-1 64
+ 
+  2   1.866  1.53 D:\MassHunter\Library\NIST17.L
+                 Butane                                262 000106-97-8 43
+                 Oxetane, 2,2-dimethyl-               1970 006245-99-4 36
+                 1-Butene                              192 000106-98-9 25
+ 
+  3   2.050  3.67 D:\MassHunter\Library\NIST17.L
+                 Pentane                               801 000109-66-0 86
+                 Pentane                               799 000109-66-0 72
+                 Tetrahydrofuran                       760 000109-99-9 50
+ 
+  4   2.148  1.49 D:\MassHunter\Library\NIST17.L
+                 1,3-Pentadiene                        501 000504-60-9 94
+                 1,3-Pentadiene, (E)-                  515 002004-70-8 94
+                 1,4-Pentadiene                        505 000591-93-5 94
+ 
+  5   2.201  0.63 D:\MassHunter\Library\NIST17.L
+                 1,3-Pentadiene, (E)-                  517 002004-70-8 81
+                 1,3-Pentadiene, (Z)-                  514 001574-41-0 76
+                 1,3-Pentadiene                        501 000504-60-9 76
+ 
+  6   2.287  0.66 D:\MassHunter\Library\NIST17.L
+                 Cyclopentene                          498 000142-29-0 83
+                 Cyclopentene                          491 000142-29-0 80
+                 3,5-Hexadien-1-ol, (Z)-              3560 002196-20-5 72
+ 
+  7   2.340  0.57 D:\MassHunter\Library\NIST17.L
+                 1-Pentene                             621 000109-67-1 59
+                 Formic acid, pentyl ester            9023 000638-49-3 45
+                 Butane, 2,3-dimethyl-                2033 000079-29-8 40
+ 
+  8   2.414  0.36 D:\MassHunter\Library\NIST17.L
+                 1,5-Hexadiene                        1348 000592-42-7 58
+                 Palladium, [1,2-ethanediylbis[bis( 296862 138234-16-9 53
+                 1,1-dimethylethyl)phosphine]-P,P']
+                 [(1,2-.eta.)-1,5-hexadiene]-
+                 1,5-Hexadiene                        1345 000592-42-7 50
+ 
+  9   2.476  3.13 D:\MassHunter\Library\NIST17.L
+                 1-Hexene                             1624 000592-41-6 91
+                 1-Hexene                             1622 000592-41-6 91
+                 1-Hexene                             1621 000592-41-6 91
+ 
+ 10   2.538  3.25 D:\MassHunter\Library\NIST17.L
+                 n-Hexane                             2019 000110-54-3 90
+                 n-Hexane                             2020 000110-54-3 83
+                 n-Hexane                             2018 000110-54-3 83
+ 
+ 11   2.639  2.19 D:\MassHunter\Library\NIST17.L
+                 Ethyl Acetate                        2241 000141-78-6 47
+                 CH3C(O)CH2CH2OH                      2250 000590-90-9 46
+                 3-Hexen-1-ol, acetate, (Z)-         21961 003681-71-8 38
+ 
+ 12   2.796  2.19 D:\MassHunter\Library\NIST17.L
+                 Cyclopentane, methyl-                1665 000096-37-7 91
+                 Cyclopentane, methyl-                1661 000096-37-7 90
+                 1H-Tetrazole, 5-methyl-              1485 004076-36-2 72
+ 
+ 13   2.895  1.07 D:\MassHunter\Library\NIST17.L
+                 1,3-Cyclopentadiene, 1-methyl-       1238 000096-39-9 49
+                 1,3-Cyclopentadiene, 5-methyl-       1237 000096-38-8 49
+                 4-Methylenecyclopentene              1230 014548-32-4 43
+ 
+ 14   2.940  0.56 D:\MassHunter\Library\NIST17.L
+                 1,3-Cyclopentadiene, 1-methyl-       1238 000096-39-9 58
+                 Dispiro[2.0.2.2]octane               6025 021426-37-9 56
+                 1,3,5-Hexatriene, (Z)-               1228 002612-46-6 52
+ 
+ 15   3.022  2.77 D:\MassHunter\Library\NIST17.L
+                 Cyclopentene, 1-methyl-              1393 000693-89-0 86
+                 Cyclopentene, 1-methyl-              1383 000693-89-0 86
+                 Cyclopentene, 3-methyl-              1377 001120-62-3 86
+ 
+ 16   3.170  1.39 D:\MassHunter\Library\NIST17.L
+                 1-Pentene, 2-methyl-                 1658 000763-29-1 38
+                 (Z),(Z)-2,4-Hexadiene                1376 006108-61-8 38
+                 trans-1,4-Hexadiene                  1361 007319-00-8 38
+ 
+ 17   3.234  0.77 D:\MassHunter\Library\NIST17.L
+                 1,3-Cyclopentadiene, 1-methyl-       1238 000096-39-9 83
+                 3-Methylenecyclopentene              1231 000930-26-7 80
+                 1,3-Cyclohexadiene                   1222 000592-57-4 64
+ 
+ 18   3.295  0.45 D:\MassHunter\Library\NIST17.L
+                 3-Penten-1-ol, 3-methyl-             4304 001708-99-2 45
+                 1,4-Hexadiene                        1350 000592-45-0 42
+                 trans-1,4-Hexadiene                  1361 007319-00-8 42
+ 
+ 19   3.372  0.91 D:\MassHunter\Library\NIST17.L
+                 Cyclohexene                          1340 000110-83-8 90
+                 Cyclohexene                          1342 000110-83-8 90
+                 Cyclobutane, ethenyl-                1368 002597-49-1 90
+ 
+ 20   3.508  4.10 D:\MassHunter\Library\NIST17.L
+                 1-Heptene                            3655 000592-76-7 95
+                 1-Heptene                            3654 000592-76-7 94
+                 1-Heptene                            3658 000592-76-7 91
+ 
+ 21   3.646  4.28 D:\MassHunter\Library\NIST17.L
+                 Heptane                              4401 000142-82-5 94
+                 Heptane                              4402 000142-82-5 94
+                 Heptane                              4403 000142-82-5 91
+ 
+ 22   3.729  0.79 D:\MassHunter\Library\NIST17.L
+                 2-Heptene, (E)-                      3669 014686-13-6 95
+                 2-Heptene                            3652 000592-77-8 94
+                 2-Heptene                            3653 000592-77-8 91
+ 
+ 23   3.847  1.43 D:\MassHunter\Library\NIST17.L
+                 Cyclopentene, 4,4-dimethyl-          3227 019037-72-0 47
+                 3,5-Dimethylcyclopentene             3210 007459-71-4 47
+                 Cyclopropane, 1-methyl-1-isopropen   3245 003422-07-9 43
+                 yl-
+ 
+ 24   3.957  2.07 D:\MassHunter\Library\NIST17.L
+                 Cyclohexene, 3-methyl-               3186 000591-48-0 91
+                 Cyclopentane, 1-methyl-2-methylene   3243 041158-41-2 91
+                 Cyclohexene, 3-methyl-               3197 000591-48-0 80
+ 
+ 25   4.051  2.37 D:\MassHunter\Library\NIST17.L
+                 Cyclohexane, methyl-                 3704 000108-87-2 94
+                 Cyclohexane, methyl-                 3700 000108-87-2 94
+                 Cyclohexane, methyl-                 3697 000108-87-2 91
+ 
+ 26   4.124  0.21 D:\MassHunter\Library\NIST17.L
+                 1,3-Pentadiene, 2,4-dimethyl-        3232 001000-86-8 74
+                 1,4-Hexadiene, 4-methyl-             3216 001116-90-1 74
+                 1,4-Hexadiene, 4-methyl-             3207 001116-90-1 68
+ 
+ 27   4.219  1.23 D:\MassHunter\Library\NIST17.L
+                 Cyclopentane, ethyl-                 3696 001640-89-7 91
+                 Cyclopentane, ethyl-                 3701 001640-89-7 59
+                 Cyclopentane, pentyl-               20038 003741-00-2 43
+ 
+ 28   4.320  1.19 D:\MassHunter\Library\NIST17.L
+                 1,3,5-Hexatriene, 3-methyl-, (Z)-    2913 024587-27-7 70
+                 1,3,5-Heptatriene, (E,E)-            2898 017679-93-5 55
+                 Bicyclo[4.1.0]hept-2-ene             2895 002566-57-6 55
+ 
+ 29   4.369  0.88 D:\MassHunter\Library\NIST17.L
+                 Cyclohexane, methylene-              3198 001192-37-6 76
+                 Cyclohexane, methylene-              3201 001192-37-6 76
+                 Cyclohexane, methylene-              3200 001192-37-6 76
+ 
+ 30   4.463  0.64 D:\MassHunter\Library\NIST17.L
+                 Bicyclo[4.1.0]hept-2-ene             2895 002566-57-6 64
+                 1,3,5-Hexatriene, 3-methyl-, (E)-    2912 024587-26-6 64
+                 Cyclopentane, 1,3-bis(methylene)-    2914 059219-48-6 64
+ 
+ 31   4.538  0.81 D:\MassHunter\Library\NIST17.L
+                 Cyclobutane, (1-methylethylidene)-   3242 001528-22-9 87
+                 Cyclopentene, 1,5-dimethyl-          3225 016491-15-9 72
+                 2,4-Heptadiene, (E,E)-               3184 002384-94-3 72
+ 
+ 32   4.602  1.69 D:\MassHunter\Library\NIST17.L
+                 1-Ethylcyclopentene                  3173 002146-38-5 91
+                 1-Ethylcyclopentene                  3172 002146-38-5 91
+                 1-Ethylcyclopentene                  3168 002146-38-5 90
+ 
+ 33   4.738  0.47 D:\MassHunter\Library\NIST17.L
+                 1,3,5-Hexatriene, 3-methyl-, (E)-    2912 024587-26-6 76
+                 1,3,5-Hexatriene, 2-methyl-          2903 019264-50-7 76
+                 1-Methylcyclohexa-1,3-diene          2901 1000298-96-0 76
+ 
+ 34   4.820  1.35 D:\MassHunter\Library\NIST17.L
+                 Benzene, (ethoxymethyl)-            18282 000539-30-0 59
+                 1,3,5-Cycloheptatriene               2740 000544-25-2 53
+                 Toluene                              2722 000108-88-3 50
+ 
+ 35   4.901  2.08 D:\MassHunter\Library\NIST17.L
+                 Cyclohexene, 1-methyl-               3187 000591-49-1 94
+                 Cyclohexene, 1-methyl-               3193 000591-49-1 91
+                 Cyclohexene, 1-methyl-               3195 000591-49-1 91
+ 
+ 36   4.978  1.40 D:\MassHunter\Library\NIST17.L
+                 1,3,5-Hexatriene, 2-methyl-          2903 019264-50-7 90
+                 Bicyclo[4.1.0]hept-2-ene             2895 002566-57-6 90
+                 1,3,5-Hexatriene, 3-methyl-, (Z)-    2913 024587-27-7 90
+ 
+ 37   5.124  1.64 D:\MassHunter\Library\NIST17.L
+                 1,3-Cycloheptadiene                  2885 004054-38-0 70
+                 Tricyclo[2.2.1.0(2,6)]heptane        2904 000279-19-6 70
+                 Bicyclo[4.1.0]hept-2-ene             2895 002566-57-6 70
+ 
+ 38   5.227  0.63 D:\MassHunter\Library\NIST17.L
+                 1-Heptene, 2-methyl-                 7404 015870-10-7 58
+                 1-Heptene, 2-methyl-                 7412 015870-10-7 58
+                 1-Heptene, 2-methyl-                 7413 015870-10-7 50
+ 
+ 39   5.353  4.02 D:\MassHunter\Library\NIST17.L
+                 cis-1-Butyl-2-methylcyclopropane     7527 038851-69-3 96
+                 1-Octene                             7349 000111-66-0 95
+                 1-Octene                             7353 000111-66-0 95
+ 
+ 40   5.567  4.21 D:\MassHunter\Library\NIST17.L
+                 Octane                               8449 000111-65-9 93
+                 Octane                               8448 000111-65-9 76
+                 Heptane, 2,4-dimethyl-              14160 002213-23-2 64
+ 
+ 41   5.676  0.60 D:\MassHunter\Library\NIST17.L
+                 2-Octene, (E)-                       7371 013389-42-9 95
+                 2-Octene, (Z)-                       7381 007642-04-8 94
+                 2-Octene, (E)-                       7363 013389-42-9 94
+ 
+ 42   5.723  0.62 D:\MassHunter\Library\NIST17.L
+                 1,3-Dimethyl-1-cyclohexene           6622 002808-76-6 76
+                 1,3-Dimethyl-1-cyclohexene           6629 002808-76-6 76
+                 Cyclopentane, 1,2-dimethyl-3-methy   6684 091884-67-2 70
+                 lene-, cis-
+ 
+ 43   5.853  0.56 D:\MassHunter\Library\NIST17.L
+                 1-Ethyl-5-methylcyclopentene         6639 097797-57-4 55
+                 Methyl ethyl cyclopentene            6612 019780-56-4 55
+                 3-Octene, (Z)-                       7361 014850-22-7 47
+ 
+ 44   5.970  0.44 D:\MassHunter\Library\NIST17.L
+                 1-Methylcycloheptene                 6571 055308-20-8 62
+                 Cyclopentane, (1-methylethylidene)   6676 000765-83-3 62
+                 1-Methylcycloheptene                 6578 055308-20-8 59
+ 
+ 45   6.087  0.78 D:\MassHunter\Library\NIST17.L
+                 Cyclohexane, ethenyl-                6585 000695-12-5 70
+                 Cyclohexane, ethylidene-             6604 001003-64-1 60
+                 Cyclohexane, ethylidene-             6605 001003-64-1 60
+ 
+ 46   6.143  1.23 D:\MassHunter\Library\NIST17.L
+                 Cyclohexene, 1,2-dimethyl-           6628 001674-10-8 96
+                 Cyclohexene, 1,2-dimethyl-           6620 001674-10-8 94
+                 1-Methyl-2-methylenecyclohexane      6655 002808-75-5 93
+ 
+ 47   6.225  0.17 D:\MassHunter\Library\NIST17.L
+                 Cyclohexene, 1,4-dimethyl-           6618 002808-79-9 68
+                 Cyclohexane, 1-methyl-4-methylene-   6675 002808-80-2 64
+                 2,4-Hexadiene, 2,3-dimethyl-         6642 005678-98-8 55
+ 
+ 48   6.311  0.65 D:\MassHunter\Library\NIST17.L
+                 Cyclopentane, propyl-                7424 002040-96-2 93
+                 Cyclopentane, propyl-                7428 002040-96-2 87
+                 Cyclopentane, propyl-                7421 002040-96-2 87
+ 
+ 49   6.381  1.21 D:\MassHunter\Library\NIST17.L
+                 Cyclohexane, ethyl-                  7392 001678-91-7 80
+                 Cyclohexane, ethyl-                  7395 001678-91-7 80
+                 Cyclohexane, ethyl-                  7396 001678-91-7 72
+ 
+ 50   6.553  0.16 D:\MassHunter\Library\NIST17.L
+                 Cyclopentene, 1,2-dimethyl-4-methy   6113 083615-96-7 91
+                 lene-
+                 1,3-Cyclohexadiene, 5,6-dimethyl-    6093 005715-27-5 64
+                 (E,E,E)-2,4,6-Octatriene             6046 015192-80-0 64
+ 
+ 51   6.633  0.68 D:\MassHunter\Library\NIST17.L
+                 4-Octyne                             6531 001942-45-6 64
+                 2-Cyclopenten-1-one, 2,3-dimethyl-   6510 001121-05-7 58
+                 5,10-Undecadienoic acid, 2-methyle  79008 051788-60-4 50
+                 ne-, methyl ester
+ 
+ 52   6.770  0.56 D:\MassHunter\Library\NIST17.L
+                 Cyclohexene, 1-ethyl-                6591 001453-24-3 76
+                 4-Ethylcyclohexene                   6564 003742-42-5 68
+                 Cyclohexene, 1-ethyl-                6584 001453-24-3 64
+ 
+ 53   6.882  0.21 D:\MassHunter\Library\NIST17.L
+                 2,3-Dimethyl-cyclohexa-1,3-diene     6088 004430-91-5 83
+                 Cyclopentene, 3-ethylidene-1-methy   6111 062338-00-5 83
+                 l-
+                 (E,E,E)-2,4,6-Octatriene             6046 015192-80-0 64
+ 
+ 54   7.002  0.44 D:\MassHunter\Library\NIST17.L
+                 Ethylbenzene                         5644 000100-41-4 46
+                 Ethylbenzene                         5646 000100-41-4 46
+                 Ethylbenzene                         5645 000100-41-4 46
+ 
+ 55   7.130  0.48 D:\MassHunter\Library\NIST17.L
+                 1-Methyl-2-methylenecyclohexane      6655 002808-75-5 91
+                 Cyclohexene, 1,6-dimethyl-           6617 001759-64-4 60
+                 Cyclohexene, 1,2-dimethyl-           6620 001674-10-8 60
+ 
+ 56   7.240  1.26 D:\MassHunter\Library\NIST17.L
+                 Cyclohexane, ethenyl-                6585 000695-12-5 89
+                 Cyclohexane, ethenyl-                6590 000695-12-5 76
+                 Cyclohexane, ethylidene-             6603 001003-64-1 68
+ 
+ 57   7.328  0.26 D:\MassHunter\Library\NIST17.L
+                 1-Methyl-2-methylenecyclohexane      6655 002808-75-5 91
+                 Cyclohexene, 1,6-dimethyl-           6617 001759-64-4 91
+                 Cyclohexene, 1,2-dimethyl-           6623 001674-10-8 91
+ 
+ 58   7.414  0.55 D:\MassHunter\Library\NIST17.L
+                 3-Methylenecycloheptene              6036 034564-56-2 55
+                 Cyclopentene, 3-ethylidene-1-methy   6111 062338-00-5 50
+                 l-
+                 Cyclohexanemethanol, 4-methylene-   12801 001004-24-6 49
+ 
+ 59   7.463  0.44 D:\MassHunter\Library\NIST17.L
+                 Cyclohexanemethanol                  8304 000100-49-2 50
+                 Cyclohexanemethanol                  8303 000100-49-2 50
+                 Cyclohexane, 2-propenyl-            11867 002114-42-3 50
+ 
+ 60   7.560  0.45 D:\MassHunter\Library\NIST17.L
+                 1,8-Nonadiene                       11832 004900-30-5 83
+                 Bicyclo[6.1.0]nonane                11845 000286-60-2 80
+                 5-Tetradecyne                       65089 060212-34-2 78
+ 
+ 61   7.670  0.91 D:\MassHunter\Library\NIST17.L
+                 Cyclopentene, 3-ethylidene-1-methy   6111 062338-00-5 48
+                 l-
+                 cis-2-Nonene                        12840 006434-77-1 46
+                 4-Nonene                            12836 002198-23-4 43
+ 
+ 62   7.827  2.64 D:\MassHunter\Library\NIST17.L
+                 1-Nonene                            12835 000124-11-8 97
+                 Cyclopropane, 1-methyl-2-pentyl-    12944 041977-37-1 93
+                 1-Decene                            19989 000872-05-9 90
+ 
+ 63   7.970  0.35 D:\MassHunter\Library\NIST17.L
+                 cis-3-Nonene                        12838 020237-46-1 91
+                 3-Nonene, (E)-                      12847 020063-92-7 91
+                 3-Nonene, (E)-                      12845 020063-92-7 90
+ 
+ 64   8.068  2.40 D:\MassHunter\Library\NIST17.L
+                 Nonane                              14126 000111-84-2 95
+                 Nonane                              14125 000111-84-2 91
+                 Nonane                              14127 000111-84-2 91
+ 
+ 65   8.191  0.43 D:\MassHunter\Library\NIST17.L
+                 2-Nonene, (E)-                      12849 006434-78-2 95
+                 2-Nonene                            12833 002216-38-8 94
+                 cis-3-Nonene                        12838 020237-46-1 94
+ 
+ 66   8.282  0.31 D:\MassHunter\Library\NIST17.L
+                 1-Ethyl-4-methylcyclohexane         12909 003728-56-1 58
+                 Cyclohexane, 1-ethyl-2-methyl-, tr  12959 004923-78-8 53
+                 ans-
+                 Furan, 2,3-dihydro-4-(1-methylprop  12823 034379-54-9 52
+                 yl)-, (S)-
+ 
+ 67   8.331  0.27 D:\MassHunter\Library\NIST17.L
+                 Octadienyl angelate, 2E, 4E-        78949 1000383-60-4 60
+                 Octadienyl tiglate, 2E, 4E-         78946 1000383-60-3 60
+                 Cyclohexane, 2-propenyl-            11874 002114-42-3 50
+ 
+ 68   8.395  0.28 D:\MassHunter\Library\NIST17.L
+                 2-Nonene, (E)-                      12849 006434-78-2 55
+                 2-Nonene                            12833 002216-38-8 52
+                 cis-2-Nonene                        12840 006434-77-1 50
+ 
+ 69   8.498  0.24 D:\MassHunter\Library\NIST17.L
+                 Cyclopentene, 1-pentyl-             18823 004291-98-9 80
+                 Cyclopentene, 1-pentyl-             18818 004291-98-9 80
+                 3-Cyclohexene-1-carboxaldehyde, 1-  11791 000931-96-4 46
+                 methyl-
+ 
+ 70   8.548  0.19 D:\MassHunter\Library\NIST17.L
+                 1,3-Hexadiene, 3-ethyl-2-methyl-,   11933 074752-97-9 50
+                 (Z)-
+                 1,1'-Bicyclopropyl, 2,2,2',2'-tetr  18930 068998-20-9 50
+                 amethyl-
+                 Methyl santolinate                  53550 053163-37-4 50
+ 
+ 71   8.635  0.27 D:\MassHunter\Library\NIST17.L
+                 Cyclohexane, 2-propenyl-            11874 002114-42-3 47
+                 (Z)-(Z)-Hex-3-en-1-yl 2-methylbut-  53600 084060-80-0 47
+                 2-enoate
+                 3,7,11-Trimethyl-2,4-dodecadiene    79254 1000374-08-3 46
+ 
+ 72   8.738  0.33 D:\MassHunter\Library\NIST17.L
+                 cis-1,4-Dimethyl-2-methylenecycloh  11934 019781-46-5 74
+                 exane
+                 1-Methyl-2-methylenecyclohexane      6655 002808-75-5 55
+                 Pentalene, octahydro-1-methyl-      11912 032273-77-1 47
+ 
+ 73   8.888  0.37 D:\MassHunter\Library\NIST17.L
+                 Cyclohexane, propyl-                12871 001678-92-8 55
+                 Cyclohexane, 1,1'-(1,3-propanediyl  79260 003178-24-3 53
+                 )bis-
+                 Cyclohexane, propyl-                12870 001678-92-8 49
+ 
+ 74   8.960  0.22 D:\MassHunter\Library\NIST17.L
+                 Cyclopentane, butyl-                12864 002040-95-1 94
+                 Cyclopentane, butyl-                12867 002040-95-1 64
+                 Cyclohexane, 1,2,3-trimethyl-       12926 001678-97-3 46
+ 
+ 75   9.068  0.13 D:\MassHunter\Library\NIST17.L
+                 1,4-Cyclohexanedimethanol, cis-     23354 003236-47-3 35
+                 3,5-Octadien-2-one                  11695 038284-27-4 35
+                 trans-1,4-Cyclohexanedimethanol, m 111434 1000385-95-3 35
+                 ono-O-trifluoroacetyl
+ 
+ 76   9.300  0.46 D:\MassHunter\Library\NIST17.L
+                 Cyclopentene, 1-butyl-              11865 002423-01-0 87
+                 Cyclopentene, 1-butyl-              11861 002423-01-0 83
+                 Cyclopentene, 1-(3-methylbutyl)-    18873 037689-15-9 53
+ 
+ 77   9.450  0.28 D:\MassHunter\Library\NIST17.L
+                 Cyclotrisiloxane, hexamethyl-       94031 000541-05-9 15
+                 Z-7-Tetradecenoic acid              97974 1000130-98-4 12
+                 Cyclotrisiloxane, hexamethyl-       94033 000541-05-9 11
+ 
+ 78   9.625  0.15 D:\MassHunter\Library\NIST17.L
+                 Cyclohexene,1-propyl-               11854 002539-75-5 81
+                 Cyclopentene, 1-butyl-              11861 002423-01-0 55
+                 Cyclohexane, (1-methylethylidene)-  11927 005749-72-4 49
+ 
+ 79   9.684  0.19 D:\MassHunter\Library\NIST17.L
+                 Benzene, 1-ethyl-3-methyl-          10479 000620-14-4 89
+                 Benzene, 1-ethyl-2-methyl-          10478 000611-14-3 86
+                 Benzene, 1-ethyl-2-methyl-          10481 000611-14-3 86
+ 
+ 80   9.771  0.12 D:\MassHunter\Library\NIST17.L
+                 2-Phenoxyethanol, 3-methylbutyl et  78965 1000394-78-8 25
+                 her
+                 Trimyristin                        305699 000555-45-3 22
+                 2-Phenoxyethanol, 2-methylbutyl et  78966 1000394-78-9 15
+                 her
+ 
+ 81   9.858  0.16 D:\MassHunter\Library\NIST17.L
+                 Pyridine, 2,3,4,5-tetrahydro-6-pro  12158 001604-01-9 38
+                 pyl-
+                 Oxalic acid, di(cyclohexylmethyl)  156578 1000309-68-5 35
+                 ester
+                 Thiophene-2-acetic acid, dodec-9-y 183002 1000282-82-8 35
+                 nyl ester
+ 
+ 82   9.959  0.10 D:\MassHunter\Library\NIST17.L
+                 6-Ethyl-5-[4-morpholinyl]-2,4(1H,3  96396 177941-50-3 38
+                 H)-pyrimidinedione
+                 2-Heptene, 5-methyl-                 7414 022487-87-2 38
+                 3,3-Dimethyl-1,5-diazabicyclo[3.1.   7020 104518-71-0 38
+                 0]hexane
+ 
+ 83  10.031  0.07 D:\MassHunter\Library\NIST17.L
+                 Corydaldine                         77649 000493-49-2 11
+                 Cyclotrisiloxane, hexamethyl-       94031 000541-05-9 11
+                 Arsenous acid, tris(trimethylsilyl 221736 055429-29-3 11
+                 ) ester
+ 
+ 84  10.122  0.29 D:\MassHunter\Library\NIST17.L
+                 Cyclohexene, 3-pentyl-              28400 015232-92-5 47
+                 Pentalene, octahydro-2-methyl-      11913 003868-64-2 47
+                 Cyclohexene, 1-methyl-               3193 000591-49-1 46
+ 
+ 85  10.264  0.33 D:\MassHunter\Library\NIST17.L
+                 1-Pentadecyne                       79247 000765-13-9 93
+                 Cyclodecene                         18784 003618-12-0 87
+                 1,9-Decadiene                       18790 001647-16-1 86
+ 
+ 86  10.334  0.35 D:\MassHunter\Library\NIST17.L
+                 5-Decene, (E)-                      20002 007433-56-9 64
+                 (Z)-5-Decene                        19994 007433-78-5 58
+                 5-Decene                            19984 019689-19-1 58
+ 
+ 87  10.515  1.93 D:\MassHunter\Library\NIST17.L
+                 1-Decene                            19986 000872-05-9 97
+                 1-Decene                            19989 000872-05-9 95
+                 1-Decene                            19988 000872-05-9 95
+ 
+ 88  10.591  0.41 D:\MassHunter\Library\NIST17.L
+                 Mesitylene                          10451 000108-67-8 95
+                 Mesitylene                          10450 000108-67-8 94
+                 Benzene, 1,2,3-trimethyl-           10474 000526-73-8 94
+ 
+ 89  10.756  1.53 D:\MassHunter\Library\NIST17.L
+                 Decane                              21359 000124-18-5 95
+                 Decane                              21358 000124-18-5 94
+                 Decane                              21357 000124-18-5 87
+ 
+ 90  10.879  0.29 D:\MassHunter\Library\NIST17.L
+                 2-Decene, (E)-                      20003 020063-97-2 93
+                 4-Decene                            19983 019689-18-0 91
+                 cis-3-Decene                        19995 019398-86-8 83
+ 
+ 91  10.963  0.11 D:\MassHunter\Library\NIST17.L
+                 Cyclohexene,3-butyl-                18809 003983-07-1 76
+                 Cyclohexene, 3-nonyl-               79250 015232-79-8 58
+                 Cyclohexene,4-butyl-                18807 021524-26-5 52
+ 
+ 92  11.031  0.07 D:\MassHunter\Library\NIST17.L
+                 1-Hexadecyne                        93954 000629-74-3 46
+                 cis-1,2-Cyclohexanedimethanol       23340 015753-50-1 43
+                 Cyclohexene, 1-octyl-               65105 015232-87-8 38
+ 
+ 93  11.095  0.14 D:\MassHunter\Library\NIST17.L
+                 3-Decene                            19982 019398-37-9 93
+                 cis-3-Decene                        19995 019398-86-8 89
+                 2-Decene, (E)-                      20003 020063-97-2 78
+ 
+ 94  11.172  0.18 D:\MassHunter\Library\NIST17.L
+                 Cycloheptane, methyl-                7417 004126-78-7 60
+                 Cycloheptane, methyl-                7426 004126-78-7 53
+                 Undec-10-ynoic acid, dodecyl ester 228874 1000406-16-5 43
+ 
+ 95  11.341  0.08 D:\MassHunter\Library\NIST17.L
+                 Cyclohexane, 1-methyl-3-(1-methyle  20120 016580-24-8 43
+                 thyl)-
+                 Cyclohexane, 1-methyl-2-propyl-     20092 004291-79-6 43
+                 Cyclohexane, 1-ethyl-4-methyl-, ci  12957 004926-78-7 35
+                 s-
+ 
+ 96  11.403  0.10 D:\MassHunter\Library\NIST17.L
+                 o-Menth-8-ene                       18788 015193-25-6 91
+                 Bicyclo[3.1.0]hexan-2-one, 5-(1-me  19661 000513-20-2 70
+                 thylethyl)-
+                 Naphthalene, decahydro-, cis-       18848 000493-01-6 70
+ 
+ 97  11.492  0.10 D:\MassHunter\Library\NIST17.L
+                 1,3-Dimethyl-1-cyclohexene           6629 002808-76-6 50
+                 Cyclopentane, (3-methylbutylidene)  18893 053366-51-1 49
+                 7-Hexadecyne                        93952 074685-28-2 46
+ 
+ 98  11.645  0.13 D:\MassHunter\Library\NIST17.L
+                 Cyclohexane, butyl-                 20026 001678-93-9 76
+                 Cyclohexane, butyl-                 20024 001678-93-9 70
+                 Cyclohexane, octyl-                 67265 001795-15-9 64
+ 
+ 99  11.716  0.11 D:\MassHunter\Library\NIST17.L
+                 Cyclopentane, pentyl-               20036 003741-00-2 92
+                 Cyclopentane, pentyl-               20038 003741-00-2 83
+                 Cyclodecane                         19991 000293-96-9 78
+ 
+100  11.981  0.11 D:\MassHunter\Library\NIST17.L
+                 Cyclopentene, 1-pentyl-             18823 004291-98-9 91
+                 Cyclopentene, 1-pentyl-             18818 004291-98-9 91
+                 Cyclopentene, 1-(3-methylbutyl)-    18874 037689-15-9 68
+ 
+101  12.093  0.10 D:\MassHunter\Library\NIST17.L
+                 Cyclohexene, 1-nonyl-               79251 015232-88-9 46
+                 6-Methyloctahydrocoumarin           40997 080648-29-9 43
+                 Cyclohexene, 3-nonyl-               79250 015232-79-8 41
+ 
+102  12.234  0.11 D:\MassHunter\Library\NIST17.L
+                 Bicyclo[4.2.0]oct-1-ene, 7-endo-et  16614 1000142-18-3 38
+                 henyl-
+                 Cyclohexane, 1,3-butadienylidene-   16593 053864-08-7 30
+                 1,2,3,4,5,8-Hexahydronaphthalene    16591 036231-13-7 25
+ 
+103  12.333  0.12 D:\MassHunter\Library\NIST17.L
+                 Cyclohexene, 1-butyl-               18813 003282-53-9 90
+                 Cyclohexene, 1-methyl-               3187 000591-49-1 52
+                 Cyclohexene, 1-nonyl-               79251 015232-88-9 46
+ 
+104  12.451  0.08 D:\MassHunter\Library\NIST17.L
+                 Cyclotrisiloxane, hexamethyl-       94031 000541-05-9 25
+                 Cyclotrisiloxane, hexamethyl-       94033 000541-05-9 25
+                 Cyclohexanecarboxamide, N-furfuryl  77837 006341-32-8 16
+ 
+105  12.785  0.12 D:\MassHunter\Library\NIST17.L
+                 11-Tetradecen-1-ol, (E)-            83439 035153-18-5 66
+                 cis-11-Tetradecen-1-ol              83436 034010-15-6 58
+                 1H-Imidazole, 2-ethyl-               3050 001072-62-4 43
+ 
+106  12.929  0.15 D:\MassHunter\Library\NIST17.L
+                 9-Decen-1-ol, trifluoroacetate     124132 1000352-65-9 72
+                 Z-1,6-Tridecadiene                  52090 1000130-98-3 68
+                 Cyclododecene, (Z)-                 39640 001129-89-1 68
+ 
+107  13.001  0.17 D:\MassHunter\Library\NIST17.L
+                 Cyclotetradecane                    67240 000295-17-0 58
+                 Isoheptadecanol                    129283 057289-07-3 52
+                 Cyclopentadecane                    81273 000295-48-7 52
+ 
+108  13.163  1.10 D:\MassHunter\Library\NIST17.L
+                 1-Undecene                          30214 000821-95-4 96
+                 1-Undecene                          30212 000821-95-4 95
+                 1-Undecene                          30215 000821-95-4 95
+ 
+109  13.282  0.13 D:\MassHunter\Library\NIST17.L
+                 Nickel, bis(1,1,1,5,5,5-hexafluoro 296584 031541-97-6 60
+                 -4-thioxo-2-pentanonato-O,S)-
+                 1-Decene, 5-methyl-                 30235 054244-79-0 42
+                 Cyclohexane, 1-(cyclohexylmethyl)-  79271 054934-94-0 38
+                 4-ethyl-, trans-
+ 
+110  13.390  0.92 D:\MassHunter\Library\NIST17.L
+                 Undecane                            31792 001120-21-4 95
+                 Undecane                            31794 001120-21-4 94
+                 Undecane                            31795 001120-21-4 94
+ 
+111  13.501  0.15 D:\MassHunter\Library\NIST17.L
+                 5-Undecene                          30213 004941-53-1 96
+                 4-Undecene, (Z)-                    30222 000821-98-7 95
+                 2-Undecene, (Z)-                    30229 000821-96-5 94
+ 
+112  13.609  0.06 D:\MassHunter\Library\NIST17.L
+                 Cyclohexene, 3-nonyl-               79250 015232-79-8 64
+                 Cyclohexene, 3-pentyl-              28400 015232-92-5 53
+                 Cyclohexene,1-hexyl-                39644 003964-66-7 52
+ 
+113  13.726  0.08 D:\MassHunter\Library\NIST17.L
+                 5-Undecene                          30213 004941-53-1 60
+                 3-Undecene, (Z)-                    30225 000821-97-6 49
+                 4-Undecene, (Z)-                    30222 000821-98-7 46
+ 
+114  13.842  0.06 D:\MassHunter\Library\NIST17.L
+                 Cyclohexanecarboxamide, N-furfuryl  77837 006341-32-8 52
+                 1,3-Dioxolane, 4-ethyl-5-octyl-2,2 228223 038274-73-6 35
+                 -bis(trifluoromethyl)-, trans-
+                 Cyclotrisiloxane, hexamethyl-       94033 000541-05-9 25
+ 
+115  13.949  0.04 D:\MassHunter\Library\NIST17.L
+                 Thiophen-2-methylamine, N-(2-fluor  77644 1000310-35-2 59
+                 ophenyl)-
+                 Oxalic acid, cyclohexylmethyl prop  99602 1000309-68-1 47
+                 yl ester
+                 Oxalic acid, cyclohexylmethyl octy 174359 1000309-68-4 47
+                 l ester
+ 
+116  14.330  0.05 D:\MassHunter\Library\NIST17.L
+                 Cyclohexane, pentyl-                30249 004292-92-6 64
+                 Cyclohexane, pentyl-                30245 004292-92-6 64
+                 Cyclohexane, 1,1'-(1,3-propanediyl  79260 003178-24-3 60
+                 )bis-
+ 
+117  14.404  0.07 D:\MassHunter\Library\NIST17.L
+                 1,3-Dioxolane, 4-ethyl-5-octyl-2,2 228223 038274-73-6 43
+                 -bis(trifluoromethyl)-, trans-
+                 Cyclohexane, 1-(cyclohexylmethyl)-  79269 054934-95-1 35
+                 4-ethyl-, cis-
+                 Arsenous acid, tris(trimethylsilyl 221736 055429-29-3 30
+                 ) ester
+ 
+118  14.603  0.04 D:\MassHunter\Library\NIST17.L
+                 2-p-Nitrophenyl-oxadiazol-1,3,4-on  78200 1000147-64-6 35
+                 e-5
+                 Methyltris(trimethylsiloxy)silane  186515 017928-28-8 22
+                 Arsenous acid, tris(trimethylsilyl 221736 055429-29-3 22
+                 ) ester
+ 
+119  15.474  0.09 D:\MassHunter\Library\NIST17.L
+                 Cyclododecene                       39618 001501-82-2 90
+                 E-1,9-Tetradecadiene                65104 1000245-70-7 90
+                 cis-7-Dodecen-1-yl acetate          97992 014959-86-5 89
+ 
+120  15.596  0.04 D:\MassHunter\Library\NIST17.L
+                 Cyclotrisiloxane, hexamethyl-       94033 000541-05-9 35
+                 Cyclohexane, 1,1'-(2-propyl-1,3-pr 122897 055030-21-2 35
+                 opanediyl)bis-
+                 Cyclotrisiloxane, hexamethyl-       94031 000541-05-9 30
+ 
+121  15.685  0.53 D:\MassHunter\Library\NIST17.L
+                 1-Dodecene                          41442 000112-41-4 97
+                 1-Dodecene                          41440 000112-41-4 95
+                 Cyclododecane                       41445 000294-62-2 94
+ 
+122  15.781  0.04 D:\MassHunter\Library\NIST17.L
+                 Cyclohexane, 1-(cyclohexylmethyl)-  79269 054934-95-1 38
+                 4-ethyl-, cis-
+                 2-Myristynoyl-glycinamide          154387 1000111-57-7 37
+                 Cyclotrisiloxane, hexamethyl-       94033 000541-05-9 18
+ 
+123  15.897  0.48 D:\MassHunter\Library\NIST17.L
+                 Dodecane                            43302 000112-40-3 96
+                 Dodecane                            43301 000112-40-3 94
+                 Dodecane                            43304 000112-40-3 94
+ 
+124  16.006  0.05 D:\MassHunter\Library\NIST17.L
+                 1,4-Phthalazinedione, 2,3-dihydro-  78201 003682-19-7 35
+                 6-nitro-
+                 1,3-Dioxolane, 4-ethyl-5-octyl-2,2 228223 038274-73-6 30
+                 -bis(trifluoromethyl)-, trans-
+                 Cyclotrisiloxane, hexamethyl-       94033 000541-05-9 25
+ 
+125  17.883  0.04 D:\MassHunter\Library\NIST17.L
+                 Cyclohexanecarboxamide, N-furfuryl  77837 006341-32-8 27
+                 Cyclotrisiloxane, hexamethyl-       94031 000541-05-9 25
+                 Cyclotrisiloxane, hexamethyl-       94033 000541-05-9 25
+ 
+126  18.067  0.24 D:\MassHunter\Library\NIST17.L
+                 1-Tridecene                         53892 002437-56-1 98
+                 1-Tridecene                         53894 002437-56-1 95
+                 1-Tridecene                         53896 002437-56-1 93
+ 
+127  18.261  0.21 D:\MassHunter\Library\NIST17.L
+                 Tridecane                           55766 000629-50-5 97
+                 Tridecane                           55767 000629-50-5 97
+                 Tridecane                           55763 000629-50-5 97
+ 
+128  18.400  0.12 D:\MassHunter\Library\NIST17.L
+                 Cyclohexasiloxane, dodecamethyl-   283485 000540-97-6 87
+                 Cyclohexasiloxane, dodecamethyl-   283486 000540-97-6 49
+                 Cyclohexasiloxane, dodecamethyl-   283484 000540-97-6 43
+ 
+129  20.314  0.11 D:\MassHunter\Library\NIST17.L
+                 1-Tetradecene                       67236 001120-36-1 98
+                 2-Tetradecene, (E)-                 67248 035953-54-9 97
+                 1-Tetradecene                       67233 001120-36-1 96
+ 
+130  20.489  0.10 D:\MassHunter\Library\NIST17.L
+                 Eicosane                           157074 000112-95-8 95
+                 Tetradecane                         69188 000629-59-4 95
+                 Tetradecane                         69187 000629-59-4 95
+ 
+131  22.045  0.16 D:\MassHunter\Library\NIST17.L
+                 Cycloheptasiloxane, tetradecamethy 298248 000107-50-6 91
+                 l-
+                 Cycloheptasiloxane, tetradecamethy 298247 000107-50-6 91
+                 l-
+                 Pentasiloxane, dodecamethyl-       254828 000141-63-9 49
+ 
+132  22.433  0.05 D:\MassHunter\Library\NIST17.L
+                 1-Pentadecene                       81271 013360-61-7 97
+                 Cetene                              96032 000629-73-2 96
+                 1-Pentadecene                       81270 013360-61-7 95
+ 
+133  22.593  0.05 D:\MassHunter\Library\NIST17.L
+                 Pentadecane                         83510 000629-62-9 96
+                 Eicosane                           157074 000112-95-8 93
+                 Pentadecane                         83512 000629-62-9 91
+ 
+134  24.439  0.02 D:\MassHunter\Library\NIST17.L
+                 Cyclotrisiloxane, hexamethyl-       94033 000541-05-9 53
+                 Hexahydropyridine, 1-methyl-4-[4,5  77947 094427-47-1 53
+                 -dihydroxyphenyl]-
+                 Methyltris(trimethylsiloxy)silane  186515 017928-28-8 49
+ 
+135  24.585  0.02 D:\MassHunter\Library\NIST17.L
+                 6,6-Diethylhoctadecane             187760 1000360-41-8 47
+                 Dotriacontane, 1,32-dibromo-       303476 121955-26-8 37
+                 Octadecane, 9-ethyl-9-heptyl-      252909 055282-27-4 37
+ 
+136  25.286  0.05 D:\MassHunter\Library\NIST17.L
+                 3,4-Dihydroxyphenylglycol, 4TMS de 287619 056114-62-6 55
+                 rivative
+                 Cyclooctasiloxane, hexadecamethyl- 302984 000556-68-3 49
+                 3,4-Dihydroxyphenylglycol, 4TMS de 287620 056114-62-6 43
+                 rivative
+ 
+
+C15-C30.M Mon Apr 29 16:24:21 2024   
