@@ -11,7 +11,7 @@ import functions
 
 from PySide6.QtCore import Slot, Signal, QThread
 from PySide6.QtWidgets import QPushButton, QWidget, QVBoxLayout, QLabel, \
-    QApplication, QMainWindow, QHBoxLayout, QSizePolicy, QFrame, QFileDialog, QGroupBox
+    QApplication, QMainWindow, QHBoxLayout, QSizePolicy, QFrame, QFileDialog, QGroupBox, QInputDialog, QProgressDialog
 from PySide6.QtGui import QPixmap
 from PySide6.QtGui import *
 from rdkit import Chem
@@ -154,8 +154,8 @@ class MainWindow(QWidget):
         self.button_category = self.buildFunctionButtons('CATEGORY')
         self.button_visualize = self.buildFunctionButtons('VISUALIZE')
 
-        self.button_select_peak.clicked.connect(self.startAnalyze)
-        self.button_search.clicked.connect(self.startAnalyze)
+        self.button_select_peak.clicked.connect(self.selectPeakLogic)
+        self.button_search.clicked.connect(self.startSearch)
         self.button_category.clicked.connect(self.startAnalyze)
         self.button_visualize.clicked.connect(self.startAnalyze)
 
@@ -195,6 +195,119 @@ class MainWindow(QWidget):
         self.task_1.get_the_peak.connect(self.updateTheCompoundInform)
         self.task_1.update_the_histogram.connect(self.UpdateHistogram)
         self.task_1.start()
+
+    @Slot()
+    def selectPeakLogic(self):
+        # 定义选项列表
+        items = ["Highest Possibility", "Custom"]
+
+        # 参数依次为：父窗口、标题、提示语、选项列表、默认索引、是否可编辑
+        item, ok = QInputDialog.getItem(self, "Select Peak Logic",
+                                        "Please choose the selection logic:",
+                                        items, 0, False)
+
+        if ok and item:
+            # 暂时只打印结果，不执行后续功能
+            print(f"User selected: {item}")
+
+    @Slot()
+    def startSearch(self):
+        # 1. 选择输入 Excel 文件
+        file_info = QFileDialog.getOpenFileName(self, 'Select the Excel file', '', 'Excel files(*.xlsx , *.xls)')
+        file_path = file_info[0]
+        if not file_path:
+            return
+
+        # 获取路径和文件名信息
+        self.using_paths = os.path.split(file_path)
+        self.filename = os.path.splitext(self.using_paths[1])[0]
+        output_filename = self.filename + '_Search_Result.xlsx'
+        output_path = os.path.join(self.using_paths[0], output_filename)
+
+        # 2. 读取 Excel 数据
+        try:
+            input_df = pds.read_excel(file_path)
+            # 默认读取第一列作为搜索词
+            search_list = input_df.iloc[:, 0].tolist()
+        except Exception as e:
+            print(f"Error reading Excel: {e}")
+            return
+
+        total_count = len(search_list)
+        if total_count == 0:
+            return
+
+        # 3. 初始化进度条对话框
+        progress = QProgressDialog("Searching PubChem...", "Cancel", 0, total_count, self)
+        progress.setWindowTitle("Search Progress")
+        progress.setWindowModality(Qt.WindowModal)  # 模态对话框，锁定父窗口
+        progress.setMinimumDuration(0)  # 立即显示
+        progress.show()
+
+        # 4. 初始化 Excel 保存对象 (复用你现有的 openpyxl 逻辑)
+        from openpyxl import Workbook
+        import re
+        wb = Workbook()
+        ws = wb.active
+        ws.title = "Search Results"
+        ws.append(['Query Name', 'IUPAC Name', 'CID', 'CAS', 'SMILES', 'Formula'])
+
+        # 5. 执行搜索循环
+        for i, query_item in enumerate(search_list):
+            # 更新进度条
+            progress.setValue(i)
+            progress.setLabelText(f"Searching ({i}/{total_count}): {query_item}")
+
+            # 处理用户点击“取消”的情况
+            if progress.wasCanceled():
+                print("Search cancelled by user.")
+                break
+
+            # 保持界面响应
+            QApplication.processEvents()
+
+            query_str = str(query_item).strip()
+            if not query_str or query_str == 'nan':
+                ws.append([query_str, "Empty query"])
+                continue
+
+            try:
+                # 核心搜索逻辑（与 ANALYZE 保持一致）
+                searching_results = pcp.get_compounds(query_str, 'name')
+                if searching_results:
+                    comp = searching_results[0]
+                    # 获取 CAS (复用原有正则逻辑)
+                    cas_id = "N/A"
+                    synonyms = pcp.get_synonyms(comp.cid, 'cid')
+                    if synonyms:
+                        all_syns = " ".join(synonyms[0].get('Synonym', []))
+                        cas_list = re.findall(r'\d{2,7}-\d{2}-\d', all_syns)
+                        if cas_list:
+                            cas_id = cas_list[0]
+
+                    ws.append([
+                        query_str,
+                        comp.iupac_name if comp.iupac_name else "N/A",
+                        comp.cid,
+                        cas_id,
+                        comp.isomeric_smiles,
+                        comp.molecular_formula
+                    ])
+                else:
+                    ws.append([query_str, "Not Found"])
+            except Exception as e:
+                print(f"Error searching {query_str}: {e}")
+                ws.append([query_str, f"Error: {str(e)}"])
+
+        # 6. 完成并保存
+        progress.setValue(total_count)
+        try:
+            wb.save(output_path)
+            print(f"Finished! File saved at: {output_path}")
+        except Exception as e:
+            print(f"Save error: {e}")
+
+
 
     @Slot(pandas.DataFrame, float)
     def initializeHistogram(self, arg, arg1):
