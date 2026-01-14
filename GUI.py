@@ -1,10 +1,21 @@
 import functions
 import tkinter
 from tkinter import filedialog
+import os
+import requests
+import sys
+import numpy
+import pandas
+import pathlib
+import pubchempy as pcp
+import pandas as pds
+import PySide6.QtGui
+import matplotlib.pyplot as plt
+import functions
 if __name__ == '__main__':
-    fp = filedialog.askopenfilename()
-    with open(fp, 'r') as input_file:
-        input_file_content = input_file.readlines()
-    line_count = sum(1 for line in input_file_content)
-    for i in input_file_content:
-        print(i)
+    compound = pcp.get_compounds('2-Octene,(Z)-','name')[0]
+    print(compound.molecular_formula)
+    print(compound.canonical_smiles)
+    print(compound.iupac_name)
+
+

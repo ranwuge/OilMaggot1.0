@@ -1,0 +1,1309 @@
+                                        Library Search Report
+
+  Data Path : H:\GCMS\202507\20250723\
+  Data File : NS250724-19-GCMS.D                                  
+  Acq On    : 24 Jul 2025  18:35
+  Operator  : xqs
+  Sample    : 3
+  Misc      :  
+  ALS Vial  : 3   Sample Multiplier: 1
+
+  Search Libraries:   C:\Database\NIST14.L              Minimum Quality:   0
+
+  Unknown Spectrum:   Apex
+  Integration Events: ChemStation Integrator - autoint1.e
+
+Pk#     RT  Area%          Library/ID                 Ref#     CAS#   Qual
+_____________________________________________________________________________
+  1   4.146  0.02 C:\Database\NIST14.L
+                 2-Heptene, 4-methyl-, (E)-           6864 066225-17-0 91
+                 4-Methyl-2-heptene                   6783 003404-56-6 90
+                 2-Methyl-2-heptene                   6784 000627-97-4 72
+ 
+  2   4.273  0.21 C:\Database\NIST14.L
+                 Heptane, 4-methyl-                   7770 000589-53-7 94
+                 Heptane, 4-methyl-                   7771 000589-53-7 94
+                 Heptane, 4-methyl-                   7766 000589-53-7 83
+ 
+  3   4.396  0.01 C:\Database\NIST14.L
+                 Cyclopropane, (2,2-dimethylpropyli   6143 039647-71-7 72
+                 dene)-
+                 1,5-Hexadiene, 2,5-dimethyl-         6098 000627-58-7 64
+                 1,4-Pentadiene, 2,3,4-trimethyl-     6125 072014-90-5 64
+ 
+  4   4.445  0.01 C:\Database\NIST14.L
+                 Cyclohexane, 1,4-dimethyl-, cis-     6928 000624-29-3 74
+                 Cyclohexane, 1,3-dimethyl-, trans-   6935 002207-03-6 70
+                 Cyclohexane, 1,4-dimethyl-, trans-   6940 002207-04-7 70
+ 
+  5   4.582  0.02 C:\Database\NIST14.L
+                 1-Heptene, 2-methyl-                 6798 015870-10-7 91
+                 1-Heptene, 2-methyl-                 6806 015870-10-7 91
+                 1-Heptene, 2-methyl-                 6807 015870-10-7 90
+ 
+  6   4.644  0.03 C:\Database\NIST14.L
+                 1-Octene                             6745 000111-66-0 95
+                 1-Octene                             6748 000111-66-0 93
+                 cis-1-Butyl-2-methylcyclopropane     6920 038851-69-3 91
+ 
+  7   4.730  0.07 C:\Database\NIST14.L
+                 Cyclopentene, 1,2,3-trimethyl-       6112 000473-91-6 62
+                 1,4-Pentadiene, 2,3,3-trimethyl-     6124 000756-02-5 53
+                 5,5-Dimethyl-1,3-hexadiene           6082 001515-79-3 53
+ 
+  8   4.813  0.01 C:\Database\NIST14.L
+                 Cyclopentane, 2-ethylidene-1,1-dim  10927 056324-66-4 74
+                 ethyl-
+                 2,4-Heptadiene, 2,6-dimethyl-       10896 004634-87-1 64
+                 Cyclopropane, 1,1-dimethyl-2-(2-me  10934 033422-32-1 64
+                 thyl-1-propenyl)-
+ 
+  9   4.907  0.12 C:\Database\NIST14.L
+                 (E)-4-Oxohex-2-enal                  6483 1000374-04-2 46
+                 Cyclopentane, 1,1,3,4-tetramethyl-  11868 020309-77-7 38
+                 , trans-
+                 Cyclohexane, propyl-                11775 001678-92-8 37
+ 
+ 10   5.089  0.13 C:\Database\NIST14.L
+                 Heptane, 2,4-dimethyl-              12960 002213-23-2 93
+                 Heptane, 2,4-dimethyl-              12971 002213-23-2 86
+                 Heptane, 2,4-dimethyl-              12973 002213-23-2 70
+ 
+ 11   5.148  0.02 C:\Database\NIST14.L
+                 Cyclohexene, 3,5-dimethyl-           6088 000823-17-6 91
+                 1,3-Dimethyl-1-cyclohexene           6090 002808-76-6 90
+                 Bicyclo[3.1.0]hexane, 1,5-dimethyl   6139 1000142-17-5 83
+ 
+ 12   5.225  0.24 C:\Database\NIST14.L
+                 Cyclohexane, 1,3,5-trimethyl-, (1.  11879 001795-27-3 91
+                 alpha.,3.alpha.,5.alpha.)-
+                 Cyclohexane, 1,3,5-trimethyl-       11818 001839-63-0 91
+                 2-Propanamine, N,N'-methanetetrayl  11483 000693-13-0 91
+                 bis-
+ 
+ 13   5.273  0.08 C:\Database\NIST14.L
+                 2-Pyrazoline, 1-methyl-4-propyl-    11468 033063-77-3 64
+                 2,6-Octadiene, 2,4-dimethyl-        17319 063843-03-8 59
+                 Oxalic acid, cyclohexyl isobutyl e  90999 1000309-30-4 53
+                 ster
+ 
+ 14   5.387  1.82 C:\Database\NIST14.L
+                 2,4-Dimethyl-1-heptene              11778 019549-87-2 95
+                 2,4-Dimethylhept-1-ene              11777 1000411-46-2 91
+                 2,4-Dimethyl-1-heptene              11782 019549-87-2 91
+ 
+ 15   5.507  0.09 C:\Database\NIST14.L
+                 1,1-Dimethyl-4-methylenecyclohexan  10921 006007-96-1 64
+                 1,3-Heptadiene, 2,3-dimethyl-       10895 074779-65-0 46
+                 Bicyclo[2.2.2]octane, 2-methyl-     10905 000766-53-0 45
+ 
+ 16   5.566  0.36 C:\Database\NIST14.L
+                 Cyclohexane, 1,3,5-trimethyl-, (1.  11874 001795-26-2 94
+                 alpha.,3.alpha.,5.beta.)-
+                 Cyclohexane, 1,3,5-trimethyl-, (1.  11879 001795-27-3 91
+                 alpha.,3.alpha.,5.alpha.)-
+                 Cyclohexane, 1,3,5-trimethyl-       11818 001839-63-0 91
+ 
+ 17   5.656  0.15 C:\Database\NIST14.L
+                 Ethylbenzene                         5173 000100-41-4 90
+                 Ethylbenzene                         5172 000100-41-4 87
+                 Benzene, 1,3-dimethyl-               5187 000108-38-3 87
+ 
+ 18   5.761  0.26 C:\Database\NIST14.L
+                 6,6-Dimethylhepta-2,4-diene         10877 1000195-03-3 81
+                 2,4-Heptadiene, 2,6-dimethyl-       10896 004634-87-1 80
+                 1,2,4,4-Tetramethylcyclopentene     10911 065378-76-9 74
+ 
+ 19   5.829  0.02 C:\Database\NIST14.L
+                 Ethylidenecycloheptane              10853 010494-87-8 41
+                 Cyclohexane, 1,2,3-trimethyl-, (1.  11873 001678-81-5 38
+                 alpha.,2.beta.,3.alpha.)-
+                 3,4-Octadiene, 7-methyl-            10867 037050-05-8 38
+ 
+ 20   5.877  0.21 C:\Database\NIST14.L
+                 6,6-Dimethylhepta-2,4-diene         10877 1000195-03-3 81
+                 1,2,4,4-Tetramethylcyclopentene     10911 065378-76-9 81
+                 2,4-Heptadiene, 2,6-dimethyl-       10896 004634-87-1 80
+ 
+ 21   5.935  0.08 C:\Database\NIST14.L
+                 5-Methyl-2-hexanol, chlorodifluoro  91860 1000376-27-1 50
+                 acetate
+                 Cyclopentane, 1,1-dimethyl-          3442 001638-26-2 50
+                 1-Octene, 2-methyl-                 11762 004588-18-5 43
+ 
+ 22   6.042  0.99 C:\Database\NIST14.L
+                 Cyclopentane, 1,2,3,4,5-pentamethy  18507 1000152-79-7 46
+                 l-
+                 1-Dodecanone, 1-cyclopropyl-        87776 019873-44-0 43
+                 3-Methylpentyl methacrylate         39564 113615-00-2 35
+ 
+ 23   6.108  0.16 C:\Database\NIST14.L
+                 Prop-2-ynyl (E)-2-methylbut-2-enoa  17804 1000373-72-5 64
+                 te
+                 2-Hexene, 4,4,5-trimethyl-          11805 055702-61-9 49
+                 Cyclopentane, 1-ethyl-1-methyl-      6919 016747-50-5 47
+ 
+ 24   6.155  0.08 C:\Database\NIST14.L
+                 Cyclopropane, 1-chloro-1,2,2-trime   8967 021181-46-4 35
+                 thyl-
+                 Cyclohexane, (1-methylethyl)-       11823 000696-29-7 27
+                 Phenol, 4-methoxy-3-methyl-         17770 014786-82-4 27
+ 
+ 25   6.284  0.18 C:\Database\NIST14.L
+                 Fumaric acid, nonyl trans-hex-3-en 182349 1000348-88-9 53
+                 yl ester
+                 Succinic acid, di(cis-hex-3-enyl)  141810 1000353-42-2 47
+                 ester
+                 Fumaric acid, decyl trans-hex-3-en 195390 1000348-89-0 45
+                 yl ester
+ 
+ 26   6.429  0.11 C:\Database\NIST14.L
+                 Benzene, (1-methylethyl)-            9596 000098-82-8 50
+                 Silane, chloroethenyldimethyl-       9415 001719-58-0 46
+                 Benzene, (1-methylethyl)-            9597 000098-82-8 43
+ 
+ 27   6.484  0.03 C:\Database\NIST14.L
+                 2-Methyl-3-ethyl-2-heptene          18460 019780-61-1 41
+                 Oxiranecarboxaldehyde, 3-methyl-3-  38030 016996-12-6 38
+                 (4-methyl-3-pentenyl)-
+                 Cyclopentanone, 2-methyl-3-(1-meth  19266 054549-81-4 30
+                 ylethyl)-
+ 
+ 28   6.542  0.09 C:\Database\NIST14.L
+                 cis-3-Decene                        18391 019398-86-8 43
+                 Cyclopropane, 1,2-dimethyl-3-penty  18504 062238-05-5 43
+                 l-
+                 5-Decene, (E)-                      18404 007433-56-9 43
+ 
+ 29   6.643  0.07 C:\Database\NIST14.L
+                 Cyclohexane                          1476 000110-82-7 53
+                 1-Pentene, 2-methyl-                 1506 000763-29-1 53
+                 2-Methyl-1-nonene                   18408 002980-71-4 47
+ 
+ 30   6.747  0.10 C:\Database\NIST14.L
+                 cis-4-Decene                        18394 019398-88-0 72
+                 2-Decene, (E)-                      18405 020063-97-2 53
+                 3-Ethyl-3-octene                    18406 019781-31-8 49
+ 
+ 31   6.802  0.13 C:\Database\NIST14.L
+                 Nonane, 4-methyl-                   19664 017301-94-9 76
+                 Nonane, 4-methyl-                   19658 017301-94-9 49
+                 Undecane, 4,5-dimethyl-             51426 017312-79-7 47
+ 
+ 32   6.918  0.20 C:\Database\NIST14.L
+                 Mesitylene                           9577 000108-67-8 95
+                 Benzene, 1,2,3-trimethyl-            9599 000526-73-8 95
+                 Benzene, 1,2,4-trimethyl-            9602 000095-63-6 94
+ 
+ 33   7.062  0.24 C:\Database\NIST14.L
+                 .alpha.-Methylstyrene                9135 000098-83-9 95
+                 .alpha.-Methylstyrene                9138 000098-83-9 90
+                 .alpha.-Methylstyrene                9139 000098-83-9 87
+ 
+ 34   7.111  0.15 C:\Database\NIST14.L
+                 1-Decene                            18384 000872-05-9 96
+                 Cyclooctane, 1,2-dimethyl-          18459 013151-94-5 95
+                 1-Decene                            18385 000872-05-9 76
+ 
+ 35   7.150  0.24 C:\Database\NIST14.L
+                 Cyclohexane, 1,1-dimethyl-2-propyl  27977 081983-71-3 62
+                 2-Undecene, 4-methyl-               38316 091695-32-8 53
+                 4-Octene, 2,3,6-trimethyl-          27955 063830-65-9 52
+ 
+ 36   7.195  0.38 C:\Database\NIST14.L
+                 4-Octene, 2,3,7-trimethyl-, [S-(E)  27978 052763-13-0 38
+                 ]-
+                 2-Methyl-2-heptene                   6784 000627-97-4 38
+                 3-Penten-2-one                       1421 000625-33-2 30
+ 
+ 37   7.294  0.48 C:\Database\NIST14.L
+                 Sulfurous acid, octyl 2-pentyl est 124388 1000309-15-7 59
+                 er
+                 Heptane, 3,3,5-trimethyl-           19707 007154-80-5 59
+                 Hexane, 3,3-dimethyl-                7784 000563-16-6 58
+ 
+ 38   7.335  0.47 C:\Database\NIST14.L
+                 Succinic acid, heptyl tetrahydrofu 159396 1000329-86-5 59
+                 rfuryl ester
+                 Heptane, 3,3,5-trimethyl-           19702 007154-80-5 59
+                 Pentane, 3,3-dimethyl-               4053 000562-49-2 53
+ 
+ 39   7.417  0.20 C:\Database\NIST14.L
+                 Octyl chloroformate                 58207 007452-59-7 50
+                 Hexane, 3-ethyl-                     7761 000619-99-8 43
+                 2H-Pyran-2,6(3H)-dione, dihydro-4,  20022 004160-82-1 35
+                 4-dimethyl-
+ 
+ 40   7.535  0.32 C:\Database\NIST14.L
+                 5-Undecene                          27899 004941-53-1 87
+                 1-Pentanol, 2-ethyl-                 8494 027522-11-8 53
+                 3-Decene, 2-methyl-, (Z)-           27945 055499-05-3 49
+ 
+ 41   7.624  0.12 C:\Database\NIST14.L
+                 1-Ethyl-2,2,6-trimethylcyclohexane  27969 071186-27-1 78
+                 3-Undecene, (Z)-                    27903 000821-97-6 49
+                 3-Undecene, (Z)-                    27911 000821-97-6 46
+ 
+ 42   7.672  0.09 C:\Database\NIST14.L
+                 Cyclopentane, 1-butyl-2-propyl-     38377 062199-50-2 58
+                 Cyclopropane, 1,2-dimethyl-1-penty  18505 062238-04-4 50
+                 l-
+                 2-Dodecene, 4-methyl-               49704 056851-45-7 50
+ 
+ 43   7.798  0.63 C:\Database\NIST14.L
+                 Decane, 3,6-dimethyl-               40000 017312-53-7 72
+                 Sulfurous acid, hexyl octyl ester  137913 1000309-13-0 68
+                 Decane, 2,3,5-trimethyl-            51454 062238-11-3 64
+ 
+ 44   7.858  0.10 C:\Database\NIST14.L
+                 6-Dodecene, (E)-                    38289 007206-17-9 49
+                 Cyclohexane, 2,4-diethyl-1-methyl-  27970 061142-70-9 46
+                 Bicyclo[3.1.1]heptan-3-one, 2,6,6-  26142 015358-88-0 46
+                 trimethyl-, (1.alpha.,2.beta.,5.al
+                 pha.)-
+ 
+ 45   7.961  1.18 C:\Database\NIST14.L
+                 Cyclohexane, 1,2-diethyl-1-methyl-  27971 061141-79-5 38
+                 2-Dodecene, 4-methyl-               49704 056851-45-7 38
+                 Cyclooctane, 1-methyl-3-propyl-     38378 255885-37-1 38
+ 
+ 46   7.999  0.76 C:\Database\NIST14.L
+                 1-Acetyl-4,5-dihydro-1H-pyrazole     6391 1000373-42-6 43
+                 1-Undecene, 8-methyl-               38297 074630-40-3 43
+                 1-Hexene, 3,3-dimethyl-              6857 003404-77-1 35
+ 
+ 47   8.049  0.19 C:\Database\NIST14.L
+                 1-Undecene                          27901 000821-95-4 96
+                 5-Undecene                          27899 004941-53-1 91
+                 1-Decanol                           30614 000112-30-1 86
+ 
+ 48   8.113  0.39 C:\Database\NIST14.L
+                 Undecane                            29354 001120-21-4 94
+                 Undecane                            29357 001120-21-4 90
+                 Undecane                            29358 001120-21-4 90
+ 
+ 49   8.291  0.28 C:\Database\NIST14.L
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18511 050876-32-9 47
+                  cis-
+                 4-Nonene, 2,3,3-trimethyl-, (Z)-    38383 063830-68-2 43
+                 4,8-Dimethylnona-3,8-dien-2-one     36470 872858-42-9 35
+ 
+ 50   8.368  0.49 C:\Database\NIST14.L
+                 2,3-Dimethyl-3-heptene, (Z)-        11814 059643-73-1 58
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18517 050876-31-8 47
+                  trans-
+                 Dichloroacetic acid, 6-ethyl-3-oct 127949 1000282-56-6 43
+                 yl ester
+ 
+ 51   8.420  0.35 C:\Database\NIST14.L
+                 2,3-Dimethyl-3-heptene, (Z)-        11814 059643-73-1 50
+                 Heptane, 2-methyl-3-methylene-      11839 062187-11-5 27
+                 3-Ethyl-4-methylpentan-1-ol         14054 038514-13-5 27
+ 
+ 52   8.519  0.17 C:\Database\NIST14.L
+                 Benzene, (3-methyl-3-butenyl)-      22197 006683-51-8 55
+                 2-Azetidinecarbothioic acid, 1-(ph 142984 127382-21-2 47
+                 enylmethyl)-, S-phenyl ester, (S)-
+                 Encyprate                           82344 002521-01-9 38
+ 
+ 53   8.573  0.75 C:\Database\NIST14.L
+                 Cyclohexane, 1,2-diethyl-3-methyl-  27972 061141-80-8 32
+                 1-Dodecyn-4-ol                      49574 074646-36-9 32
+                 cis-2,6-Dimethyl-2,6-octadiene      17326 002492-22-0 25
+ 
+ 54   8.648  0.10 C:\Database\NIST14.L
+                 Tetracyclo[3.3.1.0.1(3,9)]decan-10  23359 016492-06-1 25
+                 -one
+                 Sabinol, 3-methylbut-2-enoate       96620 1000413-83-7 22
+                 5-Nonadecen-1-ol                   142210 1000131-11-9 14
+ 
+ 55   8.702  0.31 C:\Database\NIST14.L
+                 Cyclohexanecarboxylic acid, 4-prop 131732 062439-33-2 59
+                 yl-, 4-cyanophenyl ester, trans-
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18517 050876-31-8 50
+                  trans-
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18518 050876-31-8 50
+                  trans-
+ 
+ 56   8.826  0.27 C:\Database\NIST14.L
+                 Cyclooctane, 1-methyl-3-propyl-     38378 255885-37-1 50
+                 Oxazole, 4-ethyl-2,5-dimethyl-      11062 030408-61-8 49
+                 Cyclopentane, 1,2-dibutyl-          49708 062199-52-4 49
+ 
+ 57   8.867  0.24 C:\Database\NIST14.L
+                 5-Dodecene, (E)-                    38284 007206-16-8 94
+                 5-Dodecene, (E)-                    38283 007206-16-8 94
+                 1-Dodecene                          38262 000112-41-4 92
+ 
+ 58   8.927  0.36 C:\Database\NIST14.L
+                 Dodecane                            39972 000112-40-3 94
+                 Dodecane                            39974 000112-40-3 94
+                 Dodecane                            39973 000112-40-3 93
+ 
+ 59   9.029  0.15 C:\Database\NIST14.L
+                 Cyclooctane, 1-methyl-3-propyl-     38378 255885-37-1 46
+                 Cyclohexane, 1,2-diethyl-3-methyl-  27972 061141-80-8 43
+                 1,5-Heptadiene, 3,3,5-trimethyl-    17343 074630-29-8 22
+ 
+ 60   9.067  0.16 C:\Database\NIST14.L
+                 Cyclohexane, (1,2-dimethylbutyl)-   38387 061142-37-8 52
+                 3-Cyclopropylcarboxy-6-ethyldecane 115376 1000245-65-6 50
+                 Cyclohexane, 1,1-dimethyl-2-propyl  27977 081983-71-3 50
+ 
+ 61   9.155  0.26 C:\Database\NIST14.L
+                 7-Tetradecanol                      78254 003981-79-1 59
+                 Cyclopentane, (2-methylbutyl)-      18472 053366-38-4 53
+                 1,3-Dimethyl-5-isobutylcyclohexane  38391 013131-76-5 50
+ 
+ 62   9.216  0.42 C:\Database\NIST14.L
+                 Dodecane, 4,6-dimethyl-             63642 061141-72-8 94
+                 Dodecane, 4,6-dimethyl-             63643 061141-72-8 90
+                 Nonane, 2,6-dimethyl-               29370 017302-28-2 70
+ 
+ 63   9.276  0.30 C:\Database\NIST14.L
+                 Dodecane, 4,6-dimethyl-             63643 061141-72-8 90
+                 Dodecane, 4,6-dimethyl-             63642 061141-72-8 80
+                 Sulfurous acid, pentyl undecyl est 164996 1000309-14-4 80
+                 er
+ 
+ 64   9.332  0.31 C:\Database\NIST14.L
+                 Dodecane, 4,6-dimethyl-             63642 061141-72-8 68
+                 Dodecane, 4,6-dimethyl-             63643 061141-72-8 68
+                 Nonane, 2,6-dimethyl-               29370 017302-28-2 55
+ 
+ 65   9.396  0.20 C:\Database\NIST14.L
+                 Triallylsilane                      26946 001116-62-7 38
+                 Bicyclo[3.1.1]heptan-3-one, 2,6,6-  26145 015358-88-0 35
+                 trimethyl-, (1.alpha.,2.beta.,5.al
+                 pha.)-
+                 1,1'-Bicyclooctyl                   85927 006708-17-4 27
+ 
+ 66   9.452  0.15 C:\Database\NIST14.L
+                 Cyclopentane, hexyl-                27930 004457-00-5 49
+                 Bicyclo[3.1.1]heptan-2-one, 6,6-di  18078 038651-65-9 44
+                 methyl-, (1R)-
+                 Cyclobutanone, 2-(1,1-dimethylethy  11715 004579-31-1 38
+                 l)-
+ 
+ 67   9.534  0.34 C:\Database\NIST14.L
+                 Octane, 5-ethyl-2-methyl-           29382 062016-18-6 64
+                 3-Ethyl-3-methylheptane             19692 017302-01-1 59
+                 Tridecane, 1-iodo-                 168440 035599-77-0 59
+ 
+ 68   9.591  0.69 C:\Database\NIST14.L
+                 Cyclopentane, pentyl-               18432 003741-00-2 49
+                 4-Tetradecene, (E)-                 61854 041446-78-0 38
+                 Cyclobutanone, 2-(1,1-dimethylethy  11715 004579-31-1 30
+                 l)-
+ 
+ 69   9.683  0.30 C:\Database\NIST14.L
+                 Tridecane                           51394 000629-50-5 95
+                 Tridecane                           51391 000629-50-5 95
+                 Tridecane                           51395 000629-50-5 95
+ 
+ 70   9.752  1.70 C:\Database\NIST14.L
+                 4-Isopropyl-1,3-cyclohexanedione    28561 062831-62-3 53
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18517 050876-31-8 30
+                  trans-
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18511 050876-32-9 25
+                  cis-
+ 
+ 71   9.810  0.98 C:\Database\NIST14.L
+                 Cyclohexane, 1,2,3-trimethyl-, (1.  11873 001678-81-5 46
+                 alpha.,2.beta.,3.alpha.)-
+                 1-Hexene, 3,3-dimethyl-              6857 003404-77-1 30
+                 Diglycolic acid, isohexyl 2-methyl 147767 1000381-81-5 27
+                 butyl ester
+ 
+ 72   9.878  1.64 C:\Database\NIST14.L
+                 Cyclohexane, 1,2,3-trimethyl-, (1.  11873 001678-81-5 38
+                 alpha.,2.beta.,3.alpha.)-
+                 Cyclohexane, 1,2-diethyl-1-methyl-  27971 061141-79-5 30
+                 Cyclohexane, 1,3,5-trimethyl-       11818 001839-63-0 27
+ 
+ 73   9.946  0.24 C:\Database\NIST14.L
+                 Cyclopentane, decyl-                74575 001795-21-7 43
+                 Cyclopentane, 1-butyl-2-propyl-     38377 062199-50-2 41
+                 2-Isopropenyl-5-methylhex-4-enal    25935 075697-98-2 30
+ 
+ 74  10.054  1.34 C:\Database\NIST14.L
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18517 050876-31-8 38
+                  trans-
+                 2,3-Dimethyl-3-heptene, (Z)-        11814 059643-73-1 38
+                 3-Heptene, 2,2,3,5,6-pentamethyl-   38388 116164-06-8 38
+ 
+ 75  10.209  0.57 C:\Database\NIST14.L
+                 Triallylsilane                      26946 001116-62-7 38
+                 Cyclohexane, 1,3,5-trimethyl-, (1.  11874 001795-26-2 25
+                 alpha.,3.alpha.,5.beta.)-
+                 2-(Acetylmethylene)tetrahydrofuran  11417 112595-65-0 25
+ 
+ 76  10.246  0.65 C:\Database\NIST14.L
+                 Ethoxy(methyl)chlorosilane          10457 018191-33-8 41
+                 2-Isobutylideneamino-3-methylbutyr  26939 125213-17-4 38
+                 onitrile
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18517 050876-31-8 22
+                  trans-
+ 
+ 77  10.310  0.44 C:\Database\NIST14.L
+                 5-Tetradecene, (E)-                 61862 041446-66-6 96
+                 2-Tetradecene, (E)-                 61855 035953-54-9 93
+                 Cyclotetradecane                    61847 000295-17-0 89
+ 
+ 78  10.360  0.37 C:\Database\NIST14.L
+                 Tetradecane                         63624 000629-59-4 64
+                 Tetradecane                         63625 000629-59-4 64
+                 Tetradecane                         63623 000629-59-4 59
+ 
+ 79  10.394  0.19 C:\Database\NIST14.L
+                 Carbonic acid, ethyl octadecyl est 199452 1000314-59-8 43
+                 er
+                 Cyclopentane, 1-butyl-2-pentyl-     61885 061142-52-7 30
+                 Carbonic acid, ethyl heptadecyl es 186532 1000314-59-7 25
+                 ter
+ 
+ 80  10.499  0.27 C:\Database\NIST14.L
+                 Bicyclo[2.2.1]heptane-2,5-dione, 1  36330 004230-32-4 58
+                 ,7,7-trimethyl-
+                 Cyclohexane, 2,4-diethyl-1-methyl-  27970 061142-70-9 43
+                 Cyclohexane, 1,2-diethyl-3-methyl-  27972 061141-80-8 43
+ 
+ 81  10.536  0.14 C:\Database\NIST14.L
+                 Cyclododecane                       38264 000294-62-2 58
+                 11-Methyldodecanol                  65236 085763-57-1 38
+                 Cyclohexadecane                     87837 000295-65-8 35
+ 
+ 82  10.599  0.26 C:\Database\NIST14.L
+                 Cyclohexane, 1-ethyl-2-propyl-      27962 062238-33-9 47
+                 Cyclohexane, 1-ethyl-1,3-dimethyl-  18522 062238-29-3 43
+                 , trans-
+                 Cyclohexane, 1,2-diethyl-, cis-     18485 000824-43-1 38
+ 
+ 83  10.657  0.33 C:\Database\NIST14.L
+                 Cyclohexane, 1,2,4-trimethyl-       11831 002234-75-5 50
+                 Cyclohexane, 1,2,3-trimethyl-, (1.  11873 001678-81-5 49
+                 alpha.,2.beta.,3.alpha.)-
+                 Cyclohexane, 1-ethyl-2-propyl-      27962 062238-33-9 46
+ 
+ 84  10.722  0.42 C:\Database\NIST14.L
+                 Tetradecane, 2,6,10-trimethyl-     102610 014905-56-7 62
+                 Hexadecane, 2,6,11,15-tetramethyl- 142256 000504-44-9 59
+                 Tridecane                           51394 000629-50-5 43
+ 
+ 85  10.782  0.38 C:\Database\NIST14.L
+                 Pentadecane, 2,6,10-trimethyl-     115565 003892-00-0 80
+                 Nonane, 5-butyl-                    51396 017312-63-9 55
+                 Hexadecane, 2,6,11,15-tetramethyl- 142256 000504-44-9 53
+ 
+ 86  10.840  0.35 C:\Database\NIST14.L
+                 Hexadecane, 2,6,11,15-tetramethyl- 142256 000504-44-9 64
+                 Tetradecane, 2,6,10-trimethyl-     102610 014905-56-7 62
+                 2,3-Dimethyldodecane                63626 006117-98-2 62
+ 
+ 87  10.902  0.38 C:\Database\NIST14.L
+                 Hexadecane, 2,6,11,15-tetramethyl- 142256 000504-44-9 58
+                 2,3-Dimethyldodecane                63626 006117-98-2 52
+                 Decane, 4-methyl-                   29366 002847-72-5 46
+ 
+ 88  10.962  0.87 C:\Database\NIST14.L
+                 Pentadecafluorooctanoic acid, octa 274630 1000406-04-8 87
+                 decyl ester
+                 Heptadecyl heptafluorobutyrate     256997 959085-66-6 87
+                 Heptafluorobutyric acid, n-tetrade 242674 007365-36-8 81
+                 cyl ester
+ 
+ 89  11.065  0.26 C:\Database\NIST14.L
+                 Bromoacetic acid, 6-ethyl-3-octyl  137642 1000282-67-0 43
+                 ester
+                 8-Chloro-1-octanol, TBDMS derivati 137925 1000333-08-0 43
+                 ve
+                 Triallylsilane                      26946 001116-62-7 38
+ 
+ 90  11.120  0.40 C:\Database\NIST14.L
+                 trans-Geranic acid methyl ester     49389 001189-09-9 38
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18511 050876-32-9 38
+                  cis-
+                 Cyclopentane, 1-butyl-2-ethyl-      27961 072993-32-9 38
+ 
+ 91  11.191  1.00 C:\Database\NIST14.L
+                 Bacchotricuneatin c                199015 066563-30-2 35
+                 Cyclohexane, 1-ethyl-2,4-dimethyl-  18501 061142-69-6 27
+                 3-Isopropyl-5-methyl-hex-4-en-2-on  27647 077142-85-9 27
+ 
+ 92  11.245  0.64 C:\Database\NIST14.L
+                 Triallylsilane                      26946 001116-62-7 38
+                 Cyclohexane, 1,3,5-trimethyl-, (1.  11879 001795-27-3 27
+                 alpha.,3.alpha.,5.alpha.)-
+                 Cyclohexane, 1-ethyl-1,4-dimethyl-  18523 062238-32-8 27
+                 , trans-
+ 
+ 93  11.291  0.48 C:\Database\NIST14.L
+                 n-Tetracosanol-1                   209168 000506-51-4 59
+                 Triallylsilane                      26946 001116-62-7 43
+                 Cyclohexane, 1-ethyl-2-propyl-      27962 062238-33-9 38
+ 
+ 94  11.355  0.79 C:\Database\NIST14.L
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 38
+                 3-Isopropyl-5-methyl-hex-4-en-2-on  27647 077142-85-9 27
+                 Cyclohexane, 1-ethyl-2,4-dimethyl-  18501 061142-69-6 27
+ 
+ 95  11.418  0.49 C:\Database\NIST14.L
+                 Cyclohexane, 1,3,5-trimethyl-       11818 001839-63-0 38
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 38
+                 Cyclooctane, ethyl-                 18417 013152-02-8 35
+ 
+ 96  11.457  0.42 C:\Database\NIST14.L
+                 Dichloroacetic acid, heptadecyl es 217449 1000282-98-2 72
+                 ter
+                 Cyclooctane, 1-methyl-3-propyl-     38378 255885-37-1 43
+                 3-Decene, 2,2-dimethyl-, (E)-       38367 055499-02-0 38
+ 
+ 97  11.541  0.40 C:\Database\NIST14.L
+                 11-Methyldodecanol                  65236 085763-57-1 72
+                 Cyclopentane, 1-pentyl-2-propyl-    49710 062199-51-3 43
+                 Ethanone, 1-cyclohexyl-             11589 000823-76-7 38
+ 
+ 98  11.580  0.29 C:\Database\NIST14.L
+                 Cyclohexadecane                     87836 000295-65-8 55
+                 11-Methyldodecanol                  65236 085763-57-1 52
+                 Cyclohexane, 1,2-dimethyl-3-pentyl  87857 062376-17-4 49
+                 -4-propyl-
+ 
+ 99  11.638  1.04 C:\Database\NIST14.L
+                 Cyclohexane, 3-ethyl-5-methyl-1-pr  38399 1000151-39-5 47
+                 opyl-
+                 Cyclopropanol, 1-(3,7-dimethyl-1-o  61772 065147-72-0 38
+                 ctenyl)-
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18517 050876-31-8 38
+                  trans-
+ 
+100  11.687  0.55 C:\Database\NIST14.L
+                 Benzene, 1,4-dichloro-2-nitro-      56971 000089-61-2 53
+                 Benzene, 1,2-dichloro-4-nitro-      56972 000099-54-7 53
+                 Bicyclo[3.1.1]heptan-3-one, 2,6,6-  26146 000547-60-4 49
+                 trimethyl-, (1.alpha.,2.alpha.,5.a
+                 lpha.)-
+ 
+101  11.788  0.42 C:\Database\NIST14.L
+                 (1R-(1Alpha,3beta,4beta))-1-isopro  76102 057211-60-6 47
+                 penyl-4-methyl-1,3-cyclohexanediol
+                  3-acetate
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18511 050876-32-9 38
+                  cis-
+                 Cyclohexane, 1,2-diethyl-1-methyl-  27971 061141-79-5 35
+ 
+102  11.855  0.33 C:\Database\NIST14.L
+                 Bicyclo[2.2.1]heptane-2,5-dione, 1  36330 004230-32-4 62
+                 ,7,7-trimethyl-
+                 Bicyclo[3.1.1]heptan-3-one, 6,6-di  59822 1000163-97-9 38
+                 methyl-2-(2-methylpropyl)-
+                 Geraniol                            27450 000106-24-1 38
+ 
+103  11.918  0.26 C:\Database\NIST14.L
+                 Cyclohexane, 1,2,4-trimethyl-       11831 002234-75-5 46
+                 Cyclohexane, 1-ethyl-2-propyl-      27962 062238-33-9 38
+                 Triallylvinylsilane                 46080 017988-47-5 35
+ 
+104  11.984  0.31 C:\Database\NIST14.L
+                 Cyclohexane, 1,2,3-trimethyl-, (1.  11873 001678-81-5 45
+                 alpha.,2.beta.,3.alpha.)-
+                 Tetrapentacontane, 1,54-dibromo-   276082 1000156-09-4 41
+                 2,6-Octadienal, 3,7-dimethyl-, (Z)  25969 000106-26-3 25
+ 
+105  12.029  0.33 C:\Database\NIST14.L
+                 Oxalic acid, 6-ethyloct-3-yl ethyl 118955 1000309-33-9 53
+                  ester
+                 Hexacosane                         217890 000630-01-3 43
+                 2-Bromo dodecane                   109279 013187-99-0 43
+ 
+106  12.080  0.33 C:\Database\NIST14.L
+                 13-Methylheptacosane               235622 015689-72-2 46
+                 3-Ethyl-3-methylheptane             19693 017302-01-1 38
+                 Sulfurous acid, butyl tetradecyl e 191788 1000309-18-1 38
+                 ster
+ 
+107  12.157  0.92 C:\Database\NIST14.L
+                 3-Heptadecene, (Z)-                100613 1000141-67-3 99
+                 1-Heptadecene                      100612 006765-39-5 96
+                 1-Octadecene                       113634 000112-88-9 95
+ 
+108  12.237  0.20 C:\Database\NIST14.L
+                 1-Dodecanol, 3,7,11-trimethyl-      91591 006750-34-1 60
+                 Aspidospermidin-17-ol, 1-acetyl-19 244774 002122-26-1 58
+                 ,21-epoxy-15,16-dimethoxy-
+                 Cyclopentane, 1-pentyl-2-propyl-    49710 062199-51-3 49
+ 
+109  12.274  0.41 C:\Database\NIST14.L
+                 Disulfide, di-tert-dodecyl         239746 027458-90-8 58
+                 Tetrapentacontane, 1,54-dibromo-   276082 1000156-09-4 58
+                 Eicosane, 1-iodo-                  241993 1000406-31-8 49
+ 
+110  12.343  0.38 C:\Database\NIST14.L
+                 Cyclohexane, 1-ethyl-2-propyl-      27962 062238-33-9 38
+                 4,8-Dimethylnona-3,8-dien-2-one     36471 872858-42-9 38
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18511 050876-32-9 38
+                  cis-
+ 
+111  12.407  0.31 C:\Database\NIST14.L
+                 Triallylsilane                      26946 001116-62-7 43
+                 2-(2-Methyl-acryloyl)-cyclohexanon  36267 1000185-67-7 43
+                 Cyclohexane, 1-ethyl-2-propyl-      27962 062238-33-9 43
+ 
+112  12.455  1.66 C:\Database\NIST14.L
+                 Cyclohexane, 3-ethyl-5-methyl-1-pr  38399 1000151-39-5 30
+                 opyl-
+                 4,4,7-Trimethyl-oct-5-enal          38167 1000144-08-6 27
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 25
+ 
+113  12.542  0.49 C:\Database\NIST14.L
+                 Cyclohexane, 1-ethyl-2-propyl-      27962 062238-33-9 38
+                 2-sec-Butyl-3-methyl-1-pentene      18473 075144-24-0 38
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 27
+                 ster
+ 
+114  12.608  1.26 C:\Database\NIST14.L
+                 4,4,7-Trimethyl-oct-5-enal          38167 1000144-08-6 35
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 30
+                 Cyclooctane, (1-methylpropyl)-      38372 016538-89-9 27
+ 
+115  12.649  0.39 C:\Database\NIST14.L
+                 Cyclopentane, hexyl-                27934 004457-00-5 43
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 27
+                 ster
+                 Nonane, 4-methyl-5-propyl-          51472 062185-55-1 25
+ 
+116  12.707  0.96 C:\Database\NIST14.L
+                 1-Heptadecene                      100612 006765-39-5 49
+                 Pentadecafluorooctanoic acid, octa 274630 1000406-04-8 46
+                 decyl ester
+                 1,2-Octadecanediol                 146356 020294-76-2 46
+ 
+117  12.780  0.98 C:\Database\NIST14.L
+                 Cyclooctane, ethyl-                 18419 013152-02-8 35
+                 Cyclohexane, 1-ethyl-1,3-dimethyl-  18515 062238-31-7 35
+                 , cis-
+                 Cyclohexane, 1-ethyl-1,4-dimethyl-  18523 062238-32-8 35
+                 , trans-
+ 
+118  12.862  1.45 C:\Database\NIST14.L
+                 4,8-Dimethylnona-3,8-dien-2-one     36471 872858-42-9 46
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18511 050876-32-9 43
+                  cis-
+                 8-Chloro-1-octanol, bromomethyldim 172360 1000375-56-8 43
+                 ethylsilyl ether
+ 
+119  12.947  0.23 C:\Database\NIST14.L
+                 benzeneacetyl chloride, 4-azido-    60909 1000396-00-7 59
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18511 050876-32-9 47
+                  cis-
+                 Triallylsilane                      26946 001116-62-7 35
+ 
+120  12.999  0.43 C:\Database\NIST14.L
+                 8-Chloro-1-octanol, bromomethyldim 172360 1000375-56-8 47
+                 ethylsilyl ether
+                 Cyclohexane, 1-ethyl-2-propyl-      27962 062238-33-9 38
+                 Cyclohexane, (1,2-dimethylbutyl)-   38387 061142-37-8 38
+ 
+121  13.040  0.40 C:\Database\NIST14.L
+                 Octadecane                         115545 000593-45-3 56
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 38
+                 1-Hexadecanesulfonyl chloride      181967 038775-38-1 30
+ 
+122  13.096  0.39 C:\Database\NIST14.L
+                 (.+/-.)-3-(2-Carboxy-trans-propeny  62977 040253-03-0 92
+                 l)-2,2-dimethylcyclopropane-trans-
+                 1-carboxylic acid,[1.alpha., 3.bet
+                 a.(E)]-
+                 Bicyclo[2.2.1]heptane-2,5-dione, 1  36330 004230-32-4 64
+                 ,7,7-trimethyl-
+                 2-Methyl-2-docosene                180807 1000131-16-9 58
+ 
+123  13.234  1.45 C:\Database\NIST14.L
+                 Nonadecyl heptafluorobutyrate      263154 1000351-83-9 93
+                 Z-5-Nonadecene                     126871 1000131-11-8 91
+                 Pentadecafluorooctanoic acid, octa 274630 1000406-04-8 87
+                 decyl ester
+ 
+124  13.323  0.32 C:\Database\NIST14.L
+                 Carbonic acid, decyl dodecyl ester 221026 1000383-16-1 43
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 38
+                 Sulfurous acid, butyl undecyl este 151433 1000309-17-8 38
+ 
+125  13.414  0.72 C:\Database\NIST14.L
+                 Cyclopentane, 1-pentyl-2-propyl-    49710 062199-51-3 42
+                 Eicosane                           142238 000112-95-8 38
+                 Sulfurous acid, butyl tetradecyl e 191788 1000309-18-1 38
+                 ster
+ 
+126  13.479  0.44 C:\Database\NIST14.L
+                 (.+/-.)-3-(2-Carboxy-trans-propeny  62977 040253-03-0 59
+                 l)-2,2-dimethylcyclopropane-trans-
+                 1-carboxylic acid,[1.alpha., 3.bet
+                 a.(E)]-
+                 2-Hepten-4-one, 6-hydroxy-2-methyl  98558 038043-98-0 53
+                 -6-(4-methyl-3-cyclohexen-1-yl)-
+                 n-Nonenylsuccinic anhydride         87417 028928-97-4 52
+ 
+127  13.579  1.71 C:\Database\NIST14.L
+                 1-Decanol, 2-hexyl-                104438 002425-77-6 49
+                 Triallylsilane                      26946 001116-62-7 38
+                 Cyclooctane, 1-methyl-3-propyl-     38378 255885-37-1 38
+ 
+128  13.704  1.06 C:\Database\NIST14.L
+                 1-Decanol, 2-hexyl-                104438 002425-77-6 41
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 30
+                 Tetrapentacontane, 1,54-dibromo-   276082 1000156-09-4 27
+ 
+129  13.749  0.75 C:\Database\NIST14.L
+                 Octadecane                         115545 000593-45-3 91
+                 Eicosane                           142238 000112-95-8 90
+                 Nonyl tetradecyl ether             197680 1000406-37-6 74
+ 
+130  13.794  1.10 C:\Database\NIST14.L
+                 1-Hexadecanol, 2-methyl-           117561 002490-48-4 38
+                 3-Decene, 2,2-dimethyl-, (E)-       38367 055499-02-0 38
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+ 
+131  13.954  1.79 C:\Database\NIST14.L
+                 2-Butenoic acid, 2-methyl-, 3-meth  38044 083783-86-2 47
+                 yl-2-butenyl ester, (E)-
+                 8-Chloro-1-octanol, bromomethyldim 172360 1000375-56-8 43
+                 ethylsilyl ether
+                 1-Nitrododecane                     78847 016891-99-9 38
+ 
+132  14.070  0.58 C:\Database\NIST14.L
+                 11,13-Dimethyl-12-tetradecen-1-ol  142133 1000130-81-0 59
+                 acetate
+                 Triallylsilane                      26946 001116-62-7 47
+                 2-Butenoic acid, 2-methyl-, 3-meth  38044 083783-86-2 43
+                 yl-2-butenyl ester, (E)-
+ 
+133  14.113  0.28 C:\Database\NIST14.L
+                 Cyclopentane, 1-pentyl-2-propyl-    49710 062199-51-3 47
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18517 050876-31-8 43
+                  trans-
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18511 050876-32-9 43
+                  cis-
+ 
+134  14.156  0.35 C:\Database\NIST14.L
+                 Cyclohexane, 1,1,2-trimethyl-       11817 007094-26-0 38
+                 Bicyclo[3.1.1]heptan-3-one, 6,6-di  59822 1000163-97-9 38
+                 methyl-2-(2-methylpropyl)-
+                 Cyclohexanecarboxylic acid, 4-prop 131732 062439-33-2 35
+                 yl-, 4-cyanophenyl ester, trans-
+ 
+135  14.247  0.96 C:\Database\NIST14.L
+                 Heneicosane                        155888 000629-94-7 95
+                 Octacosane                         235614 000630-02-4 91
+                 Hentriacontane                     252711 000630-04-6 90
+ 
+136  14.289  0.45 C:\Database\NIST14.L
+                 11,13-Dimethyl-12-tetradecen-1-ol  142133 1000130-81-0 53
+                 acetate
+                 Tetrapentacontane, 1,54-dibromo-   276082 1000156-09-4 38
+                 1-Decanol, 2-hexyl-                104438 002425-77-6 38
+ 
+137  14.368  0.40 C:\Database\NIST14.L
+                 Decane, 1,1'-oxybis-               158033 002456-28-2 38
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 38
+                 Docosane, 1-iodo-                  252495 1000406-31-9 35
+ 
+138  14.470  0.78 C:\Database\NIST14.L
+                 Heneicosane                        155886 000629-94-7 90
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 62
+                 ster
+                 Pentacosane                        207499 000629-99-2 52
+ 
+139  14.543  0.51 C:\Database\NIST14.L
+                 Cyclohexane, 1-ethyl-2-propyl-      27962 062238-33-9 46
+                 2-Butenoic acid, 2-methyl-, 3-meth  38044 083783-86-2 43
+                 yl-2-butenyl ester, (E)-
+                 Cyclopentane, (2-methylbutyl)-      18472 053366-38-4 43
+ 
+140  14.651  2.01 C:\Database\NIST14.L
+                 Cyclooctane, 1-methyl-3-propyl-     38378 255885-37-1 38
+                 Cyclooctane, butyl-                 38290 016538-93-5 27
+                 Cyclohexane, 3-ethyl-5-methyl-1-pr  38399 1000151-39-5 27
+                 opyl-
+ 
+141  14.777  0.97 C:\Database\NIST14.L
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 38
+                 ster
+                 Cyclohexane, 1-ethyl-2-propyl-      27962 062238-33-9 35
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+ 
+142  14.832  0.59 C:\Database\NIST14.L
+                 2-sec-Butyl-3-methyl-1-pentene      18473 075144-24-0 38
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 30
+                 ster
+ 
+143  14.891  0.94 C:\Database\NIST14.L
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+                 Cyclohexane, 1-ethyl-1,3-dimethyl-  18522 062238-29-3 27
+                 , trans-
+                 3-Decene, 2,2-dimethyl-, (E)-       38367 055499-02-0 25
+ 
+144  14.972  0.32 C:\Database\NIST14.L
+                 Disparlure                         142204 029804-22-6 43
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 42
+                 Bicyclo[3.1.1]heptan-3-one, 6,6-di  59822 1000163-97-9 41
+                 methyl-2-(2-methylpropyl)-
+ 
+145  15.046  0.66 C:\Database\NIST14.L
+                 2-sec-Butyl-3-methyl-1-pentene      18473 075144-24-0 41
+                 Cyclohexane, 1-ethyl-2-propyl-      27962 062238-33-9 38
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+ 
+146  15.091  1.31 C:\Database\NIST14.L
+                 11,13-Dimethyl-12-tetradecen-1-ol  142133 1000130-81-0 59
+                 acetate
+                 2-Butenoic acid, 2-methyl-, 3-meth  38044 083783-86-2 43
+                 yl-2-butenyl ester, (E)-
+                 4,8-Dimethylnona-3,8-dien-2-one     36471 872858-42-9 38
+ 
+147  15.224  0.62 C:\Database\NIST14.L
+                 8-Chloro-1-octanol, bromomethyldim 172360 1000375-56-8 47
+                 ethylsilyl ether
+                 Cyclohexane, 1,1'-(1,2-dimethyl-1,  85950 074663-71-1 43
+                 2-ethanediyl)bis-
+                 4,8-Dimethylnona-3,8-dien-2-one     36471 872858-42-9 43
+ 
+148  15.263  0.41 C:\Database\NIST14.L
+                 Cyclooctane, 1-methyl-3-propyl-     38378 255885-37-1 35
+                 2,3,4-Trimethyl-hex-3-enal          19190 1000193-72-9 30
+                 Cyclohexane, 1,2-diethyl-, cis-     18485 000824-43-1 30
+ 
+149  15.344  0.89 C:\Database\NIST14.L
+                 Heptadecane, 3-methyl-             115552 006418-44-6 89
+                 Nonadecane, 9-methyl-              142247 013287-24-6 83
+                 Tetratetracontane                  273584 007098-22-8 83
+ 
+150  15.451  0.45 C:\Database\NIST14.L
+                 Pentacosane                        207499 000629-99-2 58
+                 Docosane                           169409 000629-97-0 58
+                 Sulfurous acid, butyl undecyl este 151433 1000309-17-8 38
+ 
+151  15.523  0.36 C:\Database\NIST14.L
+                 Pyridine-3-carboxamide, oxime, N-( 140515 288246-53-7 53
+                 2-trifluoromethylphenyl)-
+                 2-Methyl-2-docosene                180807 1000131-16-9 43
+                 1-Hexadecanol, 3,7,11,15-tetrameth 158041 000645-72-7 38
+                 yl-
+ 
+152  15.596  0.40 C:\Database\NIST14.L
+                 1-Hexadecanol, 3,7,11,15-tetrameth 158041 000645-72-7 38
+                 yl-
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+                 Hexadecane, 2-methyl-              102609 001560-92-5 30
+ 
+153  15.653  0.21 C:\Database\NIST14.L
+                 1-Dodecanol, 3,7,11-trimethyl-      91591 006750-34-1 55
+                 5-Methyl-Z-5-docosene              180809 1000131-17-1 55
+                 Carbonic acid, eicosyl vinyl ester 219345 1000382-54-3 52
+ 
+154  15.740  0.64 C:\Database\NIST14.L
+                 Docosane                           169409 000629-97-0 70
+                 3-Methyltetracosane                207501 065820-52-2 52
+                 1-Hexadecanol, 3,7,11,15-tetrameth 158041 000645-72-7 42
+                 yl-
+ 
+155  15.843  0.42 C:\Database\NIST14.L
+                 Triallylsilane                      26946 001116-62-7 47
+                 Cyclohexane, 1-ethyl-2-propyl-      27962 062238-33-9 46
+                 Cyclohexane, (1,2-dimethylbutyl)-   38387 061142-37-8 43
+ 
+156  15.919  0.28 C:\Database\NIST14.L
+                 Disparlure                         142204 029804-22-6 43
+                 1-Hexadecanol, 3,7,11,15-tetrameth 158041 000645-72-7 43
+                 yl-
+                 Heneicosyl trifluoroacetate        242116 1000351-76-5 43
+ 
+157  15.994  1.86 C:\Database\NIST14.L
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+                 2-sec-Butyl-3-methyl-1-pentene      18473 075144-24-0 30
+                 4-Octene, 2,3,6-trimethyl-          27955 063830-65-9 25
+ 
+158  16.165  0.63 C:\Database\NIST14.L
+                 Cyclooctane, 1-methyl-3-propyl-     38378 255885-37-1 38
+                 (.+/-.)-3-(2-Carboxy-trans-propeny  62977 040253-03-0 25
+                 l)-2,2-dimethylcyclopropane-trans-
+                 1-carboxylic acid,[1.alpha., 3.bet
+                 a.(E)]-
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 25
+                 ster
+ 
+159  16.228  0.48 C:\Database\NIST14.L
+                 2-sec-Butyl-3-methyl-1-pentene      18473 075144-24-0 41
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+                 Cyclohexane, 1,2-diethyl-, cis-     18485 000824-43-1 25
+ 
+160  16.327  0.72 C:\Database\NIST14.L
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 38
+                 ster
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+                 Tetracosane                        195673 000646-31-1 35
+ 
+161  16.415  0.40 C:\Database\NIST14.L
+                 (.+/-.)-3-(2-Carboxy-trans-propeny  62977 040253-03-0 59
+                 l)-2,2-dimethylcyclopropane-trans-
+                 1-carboxylic acid,[1.alpha., 3.bet
+                 a.(E)]-
+                 Heneicosane                        155886 000629-94-7 53
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 42
+ 
+162  16.525  0.51 C:\Database\NIST14.L
+                 Cyclopentane, 1,2-dibutyl-          49708 062199-52-4 43
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 42
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 38
+                 ster
+ 
+163  16.622  1.43 C:\Database\NIST14.L
+                 11,13-Dimethyl-12-tetradecen-1-ol  142133 1000130-81-0 59
+                 acetate
+                 3,7-Nonadien-2-one, 4,8-dimethyl-   36473 000817-88-9 38
+                 4,8-Dimethylnona-3,8-dien-2-one     36471 872858-42-9 38
+ 
+164  16.816  0.82 C:\Database\NIST14.L
+                 Cyclohexane, 1,2,3,5-tetraisopropy 113652 1000156-95-7 53
+                 l-
+                 Octacosyl trifluoroacetate         267158 1000351-74-9 38
+                 2,4-Heptadienoic acid, 6-methyl-,   37957 010236-06-3 35
+                 ethyl ester
+ 
+165  16.872  0.49 C:\Database\NIST14.L
+                 Heneicosane                        155886 000629-94-7 94
+                 Octadecane, 3-methyl-              128847 006561-44-0 84
+                 Heptadecane, 3-methyl-             115552 006418-44-6 60
+ 
+166  16.954  0.30 C:\Database\NIST14.L
+                 Ketone, 2,2-dimethylcyclohexyl met  27670 017983-26-5 47
+                 hyl
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 38
+                 2-sec-Butyl-3-methyl-1-pentene      18473 075144-24-0 38
+ 
+167  17.018  0.16 C:\Database\NIST14.L
+                 Disparlure                         142204 029804-22-6 55
+                 Pyridine-3-carboxamide, oxime, N-( 140515 288246-53-7 53
+                 2-trifluoromethylphenyl)-
+                 Bicyclo[3.1.1]heptan-3-one, 6,6-di  59822 1000163-97-9 43
+                 methyl-2-(2-methylpropyl)-
+ 
+168  17.138  0.48 C:\Database\NIST14.L
+                 Hexadecane, 2,6,10,14-tetramethyl- 142260 000638-36-8 47
+                 Decane, 1-iodo-                    127778 002050-77-3 38
+                 Sulfurous acid, butyl undecyl este 151433 1000309-17-8 38
+ 
+169  17.238  0.32 C:\Database\NIST14.L
+                 Fumaric acid, dodecyl 3-fluorophen 226065 1000345-20-9 45
+                 yl ester
+                 5-Methyl-Z-5-docosene              180809 1000131-17-1 35
+                 17-Pentatriacontene                265112 006971-40-0 27
+ 
+170  17.363  0.32 C:\Database\NIST14.L
+                 5-Methyl-Z-5-docosene              180809 1000131-17-1 38
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 38
+                 1,3-Dimethyl-5-isobutylcyclohexane  38391 013131-76-5 38
+ 
+171  17.439  0.36 C:\Database\NIST14.L
+                 Carbonic acid, eicosyl vinyl ester 219345 1000382-54-3 52
+                 1-Decanol, 2-hexyl-                104440 002425-77-6 49
+                 Hentriacontane                     252711 000630-04-6 46
+ 
+172  17.578  0.34 C:\Database\NIST14.L
+                 2-Methylhexacosane                 227470 001561-02-0 58
+                 Octacosane, 1-iodo-                268607 1000406-32-2 49
+                 Pentacosane                        207499 000629-99-2 49
+ 
+173  17.657  0.11 C:\Database\NIST14.L
+                 Carbonic acid, eicosyl vinyl ester 219345 1000382-54-3 38
+                 Cyclohexane, 1,1,2-trimethyl-       11817 007094-26-0 30
+                 5-Methyl-Z-5-docosene              180809 1000131-17-1 30
+ 
+174  17.737  0.38 C:\Database\NIST14.L
+                 Triallylsilane                      26946 001116-62-7 47
+                 Cyclohexane, 1-ethyl-2-propyl-      27962 062238-33-9 46
+                 Cyclohexane, 1,2-diethyl-3-methyl-  27972 061141-80-8 43
+ 
+175  17.858  0.37 C:\Database\NIST14.L
+                 1-Hexacosene                       216562 018835-33-1 99
+                 Z-12-Pentacosene                   205944 1000131-09-4 90
+                 Cyclotetracosane                   194001 000297-03-0 89
+ 
+176  17.902  0.31 C:\Database\NIST14.L
+                 Hexacosane                         217892 000630-01-3 98
+                 Docosane                           169409 000629-97-0 97
+                 Octadecane, 3-methyl-              128847 006561-44-0 93
+ 
+177  17.969  0.90 C:\Database\NIST14.L
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+                 Cyclohexane, 1-ethyl-1,4-dimethyl-  18516 062238-30-6 22
+                 , cis-
+                 Cyclohexane, 1-ethyl-1,3-dimethyl-  18522 062238-29-3 22
+                 , trans-
+ 
+178  18.044  0.50 C:\Database\NIST14.L
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 41
+                 ster
+                 5-Methyl-Z-5-docosene              180809 1000131-17-1 38
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+ 
+179  18.227  0.57 C:\Database\NIST14.L
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+                 1,1,3,6-tetramethyl-2-(3,6,10,13,1 256339 1000373-94-3 27
+                 4-pentamethyl-3-ethyl-pentadecyl)c
+                 yclohexane
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 27
+                 ster
+ 
+180  18.318  0.42 C:\Database\NIST14.L
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 41
+                 ster
+                 5-Methyl-Z-5-docosene              180809 1000131-17-1 38
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+ 
+181  18.403  0.09 C:\Database\NIST14.L
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 42
+                 2,3,4-Trimethyl-hex-3-enal          19190 1000193-72-9 25
+                 Cyclohexane, 1,2-diethyl-, cis-     18485 000824-43-1 25
+ 
+182  18.486  0.52 C:\Database\NIST14.L
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 38
+                 2-n-Propyl-4-ethyl-5-methyloxazole  27404 084027-94-1 35
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 30
+                 ster
+ 
+183  18.610  0.38 C:\Database\NIST14.L
+                 2,4-Heptadienoic acid, 6-methyl-,   37957 010236-06-3 56
+                 ethyl ester
+                 Ditetradecyl ether                 243190 005412-98-6 53
+                 1-Decanol, 2-hexyl-                104438 002425-77-6 46
+ 
+184  18.778  0.46 C:\Database\NIST14.L
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 38
+                 4,4,7-Trimethyl-oct-5-enal          38167 1000144-08-6 38
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 30
+                 ster
+ 
+185  18.959  1.19 C:\Database\NIST14.L
+                 11,13-Dimethyl-12-tetradecen-1-ol  142133 1000130-81-0 59
+                 acetate
+                 Cyclooctane, 1-methyl-3-propyl-     38378 255885-37-1 43
+                 Benzoic acid, 4-(heptafluorobutyry 191236 1000375-04-7 38
+                 loxy)-
+ 
+186  19.034  0.23 C:\Database\NIST14.L
+                 1-Hexacosene                       216562 018835-33-1 46
+                 Octacosyl trifluoroacetate         267158 1000351-74-9 38
+                 Cyclohexane, 1,2-diethyl-, cis-     18485 000824-43-1 30
+ 
+187  19.122  0.28 C:\Database\NIST14.L
+                 1-Hexacosene                       216562 018835-33-1 99
+                 Z-12-Pentacosene                   205944 1000131-09-4 90
+                 Heptacos-1-ene                     226281 015306-27-1 89
+ 
+188  19.178  0.29 C:\Database\NIST14.L
+                 Docosane                           169409 000629-97-0 97
+                 Octadecane, 3-methyl-              128847 006561-44-0 93
+                 Heptadecane, 3-methyl-             115552 006418-44-6 90
+ 
+189  19.256  0.36 C:\Database\NIST14.L
+                 Disparlure                         142204 029804-22-6 49
+                 Cyclohexane, 1,2-diethyl-3-methyl-  27972 061141-80-8 35
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18511 050876-32-9 27
+                  cis-
+ 
+190  19.363  0.22 C:\Database\NIST14.L
+                 3-Heptafluorobytyryloxy-6-ethyldec 227967 1000215-97-2 43
+                 ane
+                 Cyclooctane, 1-methyl-3-propyl-     38378 255885-37-1 38
+                 Cyclohexane, 1,2-diethyl-3-methyl-  27972 061141-80-8 38
+ 
+191  19.462  0.16 C:\Database\NIST14.L
+                 Disparlure                         142204 029804-22-6 46
+                 Ketone, 2,2-dimethylcyclohexyl met  27670 017983-26-5 43
+                 hyl
+                 Cyclohexane, 2,4-diethyl-1-methyl-  27970 061142-70-9 35
+ 
+192  19.539  0.25 C:\Database\NIST14.L
+                 2,4-Heptadienoic acid, 6-methyl-,   37957 010236-06-3 35
+                 ethyl ester
+                 Cyclohexane, 1,2-diethyl-, cis-     18485 000824-43-1 30
+                 Cyclopentane, 1-butyl-2-ethyl-      27961 072993-32-9 27
+ 
+193  19.764  0.35 C:\Database\NIST14.L
+                 Octadecane, 3-methyl-              128847 006561-44-0 49
+                 Hexadecane, 2,6,10,14-tetramethyl- 142260 000638-36-8 47
+                 Carbonic acid, decyl tetradecyl es 237851 1000383-16-3 38
+                 ter
+ 
+194  19.920  0.29 C:\Database\NIST14.L
+                 Cyclopentane, 1,2-dibutyl-          49708 062199-52-4 38
+                 Bicyclo[3.1.1]heptan-3-one, 2-(2,2  72667 1000163-96-4 35
+                 -dimethylpropyl)-6,6-dimethyl-, (s
+                 tereoisomer 1)
+                 5-Methyl-(E)-2-hepten-4-one         11640 102322-83-8 25
+ 
+195  20.114  0.27 C:\Database\NIST14.L
+                 Octacosane, 1-iodo-                268607 1000406-32-2 43
+                 5-Methyl-Z-5-docosene              180809 1000131-17-1 41
+                 Tetratriacontyl pentafluoropropion 274146 1000351-81-5 38
+                 ate
+ 
+196  20.241  0.12 C:\Database\NIST14.L
+                 Methyl 6.alpha.,7.beta.-dihydroxyv 214879 040776-64-5 53
+                 ouacapan-17.beta.-oate
+                 Sulfurous acid, heptadecyl 2-penty 233253 1000309-16-7 49
+                 l ester
+                 Hexatriacontyl trifluoroacetate    273578 1000351-88-6 38
+ 
+197  20.314  0.12 C:\Database\NIST14.L
+                 .beta.-d-Mannofuranoside, 2,3:5,6- 234276 1000154-77-1 44
+                 di-ethylboranediyl-geranyl-
+                 Bicyclo[3.1.1]heptan-3-one, 6,6-di  59822 1000163-97-9 41
+                 methyl-2-(2-methylpropyl)-
+                 2,4-Heptadienoic acid, 6-methyl-,   37957 010236-06-3 35
+                 ethyl ester
+ 
+198  20.466  0.22 C:\Database\NIST14.L
+                 2-Methylhexacosane                 227470 001561-02-0 53
+                 Octadecane, 3-methyl-              128847 006561-44-0 49
+                 Octacosane, 1-iodo-                268607 1000406-32-2 49
+ 
+199  20.587  0.09 C:\Database\NIST14.L
+                 Tetrapentacontane, 1,54-dibromo-   276082 1000156-09-4 70
+                 Dotriacontyl pentafluoropropionate 273442 1000351-81-4 52
+                 Dotriacontyl heptafluorobutyrate   274582 1000351-84-2 52
+ 
+200  20.738  0.43 C:\Database\NIST14.L
+                 Disparlure                         142204 029804-22-6 62
+                 Octacosyl heptafluorobutyrate      273239 1000351-83-6 45
+                 Triacontyl pentafluoropropionate   272551 1000351-80-0 45
+ 
+201  20.801  0.51 C:\Database\NIST14.L
+                 Docosane                           169409 000629-97-0 97
+                 Octadecane, 3-methyl-              128847 006561-44-0 93
+                 Octacosane                         235615 000630-02-4 93
+ 
+202  21.114  0.79 C:\Database\NIST14.L
+                 1,1,3,6-tetramethyl-2-(3,6,10,13,1 256339 1000373-94-3 47
+                 4-pentamethyl-3-ethyl-pentadecyl)c
+                 yclohexane
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+                 Cyclooctane, 1-methyl-3-propyl-     38378 255885-37-1 35
+ 
+203  21.235  0.39 C:\Database\NIST14.L
+                 1,1,3,6-tetramethyl-2-(3,6,10,13,1 256339 1000373-94-3 42
+                 4-pentamethyl-3-ethyl-pentadecyl)c
+                 yclohexane
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 38
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 30
+                 ster
+ 
+204  21.522  0.38 C:\Database\NIST14.L
+                 5-Methyl-Z-5-docosene              180809 1000131-17-1 42
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+                 2-sec-Butyl-3-methyl-1-pentene      18473 075144-24-0 30
+ 
+205  21.673  0.23 C:\Database\NIST14.L
+                 1,1,3,6-tetramethyl-2-(3,6,10,13,1 256339 1000373-94-3 46
+                 4-pentamethyl-3-ethyl-pentadecyl)c
+                 yclohexane
+                 Sulfurous acid, butyl heptadecyl e 224827 1000309-18-4 38
+                 ster
+                 Sulfurous acid, butyl octadecyl es 233252 1000309-18-5 38
+                 ter
+ 
+206  21.793  0.09 C:\Database\NIST14.L
+                 Methyl 6.alpha.,7.beta.-dihydroxyv 214879 040776-64-5 56
+                 ouacapan-17.beta.-oate
+                 Sulfurous acid, butyl octadecyl es 233252 1000309-18-5 41
+                 ter
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 38
+ 
+207  21.942  0.38 C:\Database\NIST14.L
+                 Triallylsilane                      26946 001116-62-7 43
+                 3-Decene, 2,2-dimethyl-, (E)-       38367 055499-02-0 38
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+ 
+208  22.125  0.14 C:\Database\NIST14.L
+                 (.+/-.)-3-(2-Carboxy-trans-propeny  62977 040253-03-0 68
+                 l)-2,2-dimethylcyclopropane-trans-
+                 1-carboxylic acid,[1.alpha., 3.bet
+                 a.(E)]-
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 38
+                 Cyclopentanecarboxylic acid, 3-flu  72157 1000331-07-2 27
+                 orophenyl ester
+ 
+209  22.410  0.22 C:\Database\NIST14.L
+                 (.+/-.)-3-(2-Carboxy-trans-propeny  62977 040253-03-0 83
+                 l)-2,2-dimethylcyclopropane-trans-
+                 1-carboxylic acid,[1.alpha., 3.bet
+                 a.(E)]-
+                 Cycloundecane, (1-methylethyl)-     61884 062338-56-1 41
+                 2-Methoxycarbonylspiro[2.3]hexane   18914 1000222-10-1 35
+ 
+210  22.566  0.04 C:\Database\NIST14.L
+                 Cyclopentane, 1,2-dibutyl-          49708 062199-52-4 55
+                 3-Decene, 2,2-dimethyl-, (E)-       38367 055499-02-0 38
+                 Cyclohexane, 1,5-diisopropyl-2,3-d  61895 1000149-58-8 38
+                 imethyl-
+ 
+211  22.737  1.09 C:\Database\NIST14.L
+                 11,13-Dimethyl-12-tetradecen-1-ol  142133 1000130-81-0 59
+                 acetate
+                 Cyclohexane, 1,2-diethyl-3-methyl-  27972 061141-80-8 43
+                 Cyclooctane, 1-methyl-3-propyl-     38378 255885-37-1 43
+ 
+212  22.860  0.44 C:\Database\NIST14.L
+                 Nonacosane                         242319 000630-03-5 96
+                 Nonacosane                         242318 000630-03-5 91
+                 Octadecane, 3-methyl-              128847 006561-44-0 90
+ 
+213  23.223  0.24 C:\Database\NIST14.L
+                 1,3-Dioxolane, 4-ethyl-5-octyl-2,2 205325 038274-73-6 47
+                 -bis(trifluoromethyl)-, trans-
+                 Disparlure                         142204 029804-22-6 47
+                 Cyclooctane, 1-methyl-3-propyl-     38378 255885-37-1 43
+ 
+214  23.393  0.13 C:\Database\NIST14.L
+                 11,13-Dimethyl-12-tetradecen-1-ol  142133 1000130-81-0 64
+                 acetate
+                 Cyclohexane, 1,2-diethyl-3-methyl-  27972 061141-80-8 43
+                 Cyclohexane, 1,1,3,5-tetramethyl-,  18511 050876-32-9 43
+                  cis-
+ 
+215  23.543  0.11 C:\Database\NIST14.L
+                 N-(7,7-Dimethyl-2-oxobicyclo[2.2.1  93668 1000145-57-7 38
+                 ]hept-1-yl)methanesulfonamide
+                 1,3-Dimethyl-5-isobutylcyclohexane  38391 013131-76-5 38
+                 7-Ethyl-2-undecen-6-one             61756 1000374-14-9 30
+ 
+216  23.698  0.09 C:\Database\NIST14.L
+                 Cyclopentane, 1,2-dibutyl-          49708 062199-52-4 78
+                 5-Methyl-Z-5-docosene              180809 1000131-17-1 62
+                 1-Nonadecene                       126870 018435-45-5 46
+ 
+217  24.052  0.17 C:\Database\NIST14.L
+                 Disulfide, di-tert-dodecyl         239746 027458-90-8 64
+                 Nonahexacontanoic acid             276185 040710-32-5 58
+                 2-Methylhexacosane                 227470 001561-02-0 49
+ 
+218  24.291  0.13 C:\Database\NIST14.L
+                 5-Methyl-Z-5-docosene              180809 1000131-17-1 89
+                 Heptacosyl pentafluoropropionate   270356 1000351-81-6 43
+                 Pentacosane                        207499 000629-99-2 30
+ 
+219  24.620  0.05 C:\Database\NIST14.L
+                 Acetic acid, 3,7,11,15-tetramethyl 197618 1000193-63-0 52
+                 -hexadecyl ester
+                 Pentacosane                        207499 000629-99-2 46
+                 Octadecane, 3-methyl-              128847 006561-44-0 41
+ 
+220  24.800  0.01 C:\Database\NIST14.L
+                 Sulfurous acid, heptadecyl 2-penty 233253 1000309-16-7 49
+                 l ester
+                 Tetracosane, 1-iodo-               260060 1000406-32-0 49
+                 Acetic acid, 3,7,11,15-tetramethyl 197618 1000193-63-0 49
+                 -hexadecyl ester
+ 

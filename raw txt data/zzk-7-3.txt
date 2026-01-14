@@ -1,0 +1,377 @@
+                                        谱库检索报告
+
+  数据路径  : D:\2024DATA\
+  数据文件  : 1159.D                                              
+  采集      : 02 Jul 2024  18:58
+  操作者    :  
+  样品      : 十二烷
+  其他      :  
+  ALS 样品瓶: 2   样品乘积因子: 1
+
+  检索库：  D:\MassHunter\Library\NIST20.L    最小匹配度：  0
+
+  未知质谱图：   顶点
+  积分事件： 化学工作站积分器 - autoint1.e
+
+峰#    R.T.  面积%          谱库/ID                 参比#    CAS#      匹配度
+_____________________________________________________________________________
+  1   1.990  0.01 D:\MassHunter\Library\NIST20.L
+                 1,3-Butadiene                                263 000106-97-8 47
+                 Butane                                264 000106-97-8 47
+                 Butane                                262 000106-97-8 47
+ 
+  2   2.097  0.26 D:\MassHunter\Library\NIST20.L
+                 Cyclohexane                              106 000064-17-5 86
+                 Ethanol                               107 000064-17-5 86
+                 Ethanol                               105 000064-17-5 78
+ 
+  3   2.245  0.07 D:\MassHunter\Library\NIST20.L
+                 Diphenylmethane                               808 000109-66-0 87
+                 Pentane                               807 000109-66-0 86
+                 Pentane                               809 000109-66-0 86
+ 
+  4   2.434  0.01 D:\MassHunter\Library\NIST20.L
+                 Methylene chloride                   1715 000075-09-2 90
+                 Methylene chloride                   1716 000075-09-2 90
+                 Methylene chloride                   1713 000075-09-2 90
+ 
+  5   2.640  0.11 D:\MassHunter\Library\NIST20.L
+                 Pentane, 2-methyl-                   2047 000107-83-5 94
+                 Pentane, 2-methyl-                   2048 000107-83-5 91
+                 Pentane, 2-methyl-                   2042 000107-83-5 91
+ 
+  6   2.923  0.21 D:\MassHunter\Library\NIST20.L
+                 2-Ethyl-oxetane                      1948 1010386-40-2 86
+                 n-Hexane                             2039 000110-54-3 83
+                 n-Hexane                             2040 000110-54-3 78
+ 
+  7   3.105  0.01 D:\MassHunter\Library\NIST20.L
+                 Ethyl Acetate                        2271 000141-78-6 38
+                 Ethyl Acetate                        2270 000141-78-6 38
+                 Ethyl Acetate                        2272 000141-78-6 38
+ 
+  8   3.911  0.27 D:\MassHunter\Library\NIST20.L
+                 Hexane, 2-methyl-                    4470 000591-76-4 91
+                 Hexane, 2-methyl-                    4467 000591-76-4 91
+                 Hexane, 2-methyl-                    4469 000591-76-4 91
+ 
+  9   4.094  0.11 D:\MassHunter\Library\NIST20.L
+                 Hexane, 3-methyl-                    4465 000589-34-4 95
+                 Hexane, 3-methyl-                    4468 000589-34-4 83
+                 Hexane, 3-methyl-                    4471 000589-34-4 83
+ 
+ 10   4.660  0.53 D:\MassHunter\Library\NIST20.L
+                 Styrene                              4463 000142-82-5 91
+                 Heptane                              4464 000142-82-5 91
+                 Heptane                              4462 000142-82-5 78
+ 
+ 11   5.535  0.02 D:\MassHunter\Library\NIST20.L
+                 Hexane, 2,5-dimethyl-                8641 000592-13-2 50
+                 Hexane, 2,5-dimethyl-                8643 000592-13-2 49
+                 Heptane, 2-methyl-                   8628 000592-27-8 38
+ 
+ 12   6.809  0.63 D:\MassHunter\Library\NIST20.L
+                 Heptane, 2-methyl-                   8628 000592-27-8 95
+                 Heptane, 2-methyl-                   8632 000592-27-8 94
+                 Heptane, 2-methyl-                   8636 000592-27-8 81
+ 
+ 13   7.104  0.26 D:\MassHunter\Library\NIST20.L
+                 Heptane, 3-methyl-                   8631 000589-81-1 94
+                 Heptane, 3-methyl-                   8629 000589-81-1 87
+                 Hexane, 2,3,3-trimethyl-            14567 016747-28-7 64
+ 
+ 14   8.330  1.12 D:\MassHunter\Library\NIST20.L
+                 Naphthalene                               8621 000111-65-9 95
+                 Octane                               8623 000111-65-9 94
+                 Octane                               8624 000111-65-9 93
+ 
+ 15  10.111  0.01 D:\MassHunter\Library\NIST20.L
+                 Cyclotrisiloxane, hexamethyl-      102259 000541-05-9 78
+                 Cyclotrisiloxane, hexamethyl-      102257 000541-05-9 78
+                 Arsenous acid, tris(trimethylsilyl 251605 055429-29-3 72
+                 ) ester
+ 
+ 16  11.780  0.12 D:\MassHunter\Library\NIST20.L
+                 Octane, 4-methyl-                   14533 002216-34-4 91
+                 Octane, 4-methyl-                   14529 002216-34-4 91
+                 Octane, 4-methyl-                   14526 002216-34-4 81
+ 
+ 17  11.907  0.48 D:\MassHunter\Library\NIST20.L
+                 Octane, 2-methyl-                   14530 003221-61-2 95
+                 Octane, 2-methyl-                   14534 003221-61-2 94
+                 Octane, 2-methyl-                   14524 003221-61-2 91
+ 
+ 18  12.286  0.24 D:\MassHunter\Library\NIST20.L
+                 Octane, 3-methyl-                   14538 002216-33-3 87
+                 Octane, 3-methyl-                   14537 002216-33-3 83
+                 Octane, 3-methyl-                   14528 002216-33-3 76
+ 
+ 19  14.143  0.80 D:\MassHunter\Library\NIST20.L
+                 1-Pentene                              14523 000111-84-2 95
+                 Nonane                              14521 000111-84-2 95
+                 Nonane                              14520 000111-84-2 95
+ 
+ 20  21.244  0.06 D:\MassHunter\Library\NIST20.L
+                 Decane                              22067 000124-18-5 93
+                 Decane                              22069 000124-18-5 93
+                 Decane                              22068 000124-18-5 70
+ 
+ 21  26.021  0.02 D:\MassHunter\Library\NIST20.L
+                 Eicosane                           176385 000112-95-8 53
+                 Heptadecane, 7-methyl-             141064 020959-33-5 25
+                 Hexadecane, 2,6,10,14-tetramethyl- 176407 000638-36-8 25
+ 
+ 22  26.454  0.01 D:\MassHunter\Library\NIST20.L
+                 Cyclotrisiloxane, hexamethyl-      102257 000541-05-9 43
+                 Cyclotrisiloxane, hexamethyl-      102259 000541-05-9 43
+                 Arsenous acid, tris(trimethylsilyl 251605 055429-29-3 43
+                 ) ester
+ 
+ 23  26.893  0.02 D:\MassHunter\Library\NIST20.L
+                 Cyclotrisiloxane, hexamethyl-      102259 000541-05-9 53
+                 Cyclotrisiloxane, hexamethyl-      102258 000541-05-9 47
+                 Benzenamine, 4-bromo-2-chloro-      81667 038762-41-3 43
+ 
+ 24  28.378  0.02 D:\MassHunter\Library\NIST20.L
+                 Arsenous acid, tris(trimethylsilyl 251605 055429-29-3 43
+                 ) ester
+                 Eicosane, 1-iodo-                  306637 1000406-31-8 22
+                 Heptadecane                        123958 000629-78-7 14
+ 
+ 25  28.671  0.18 D:\MassHunter\Library\NIST20.L
+                 Undecane                            33080 001120-21-4 93
+                 Undecane                            33077 001120-21-4 87
+                 Undecane                            33078 001120-21-4 87
+ 
+ 26  28.828  0.03 D:\MassHunter\Library\NIST20.L
+                 5-Ethyldecane                       45482 017302-36-2 46
+                 Eicosane                           176385 000112-95-8 42
+                 Nonadecane, 9-methyl-              176393 013287-24-6 35
+ 
+ 27  29.031  0.07 D:\MassHunter\Library\NIST20.L
+                 Eicosane                           176385 000112-95-8 83
+                 Eicosane, 1-iodo-                  306637 1000406-31-8 47
+                 Undecane, 4,6-dimethyl-             59063 017312-82-2 43
+ 
+ 28  29.257  0.03 D:\MassHunter\Library\NIST20.L
+                 Heptane, 2,4-dimethyl-              14544 002213-23-2 43
+                 Sulfurous acid, isohexyl pentyl es 117909 1000309-14-0 38
+                 ter
+                 Dodecane, 5-methyl-                 59039 017453-93-9 38
+ 
+ 29  29.478  0.40 D:\MassHunter\Library\NIST20.L
+                 Undecane, 2,7-dimethyl-             59055 017301-24-5 72
+                 Decane, 3-ethyl-3-methyl-           59104 017312-66-2 72
+                 Undecane, 2,4-dimethyl-             59074 017312-80-0 64
+ 
+ 30  29.767  0.66 D:\MassHunter\Library\NIST20.L
+                 Decane, 2,5-dimethyl-               45505 017312-50-4 90
+                 Undecane, 6-methyl-                 45491 017302-33-9 90
+                 Hexane, 4-ethyl-2-methyl-           14587 003074-75-7 78
+ 
+ 31  29.876  0.56 D:\MassHunter\Library\NIST20.L
+                 Decane, 3,6-dimethyl-               45506 017312-53-7 87
+                 2,6-Dimethyldecane                  45485 013150-81-7 81
+                 Undecane, 5-methyl-                 45494 001632-70-8 81
+ 
+ 32  30.119  0.14 D:\MassHunter\Library\NIST20.L
+                 Decane, 3,6-dimethyl-               45506 017312-53-7 95
+                 Undecane, 5-methyl-                 45494 001632-70-8 64
+                 Nonane, 3-methyl-5-propyl-          59108 031081-18-2 64
+ 
+ 33  30.231  0.13 D:\MassHunter\Library\NIST20.L
+                 Decane, 3,6-dimethyl-               45506 017312-53-7 94
+                 Undecane, 5,7-dimethyl-             59053 017312-83-3 72
+                 Dodecane, 5-methyl-                 59039 017453-93-9 64
+ 
+ 34  30.353  0.35 D:\MassHunter\Library\NIST20.L
+                 Decane, 3,7-dimethyl-               45501 017312-54-8 78
+                 Undecane, 4-methyl-                 45489 002980-69-0 64
+                 1-Hexanol, 5-methyl-2-(1-methyleth  34666 002051-33-4 59
+                 yl)-
+ 
+ 35  30.571  0.32 D:\MassHunter\Library\NIST20.L
+                 Nonane, 5-methyl-5-propyl-          59109 017312-75-3 74
+                 Undecane, 4-methyl-                 45489 002980-69-0 72
+                 Nonane, 5-butyl-                    59030 017312-63-9 64
+ 
+ 36  30.735  0.55 D:\MassHunter\Library\NIST20.L
+                 Undecane, 2-methyl-                 45487 007045-71-8 87
+                 Undecane, 2-methyl-                 45493 007045-71-8 87
+                 Undecane, 2-methyl-                 45492 007045-71-8 72
+ 
+ 37  30.896  0.12 D:\MassHunter\Library\NIST20.L
+                 Undecane, 5,5-dimethyl-             59065 017312-73-1 64
+                 Nonane, 5-butyl-                    59031 017312-63-9 59
+                 Nonane, 5-butyl-                    59030 017312-63-9 53
+ 
+ 38  31.135  0.62 D:\MassHunter\Library\NIST20.L
+                 Decane, 3,8-dimethyl-               45512 017312-55-9 90
+                 Borane, diethyl(decyloxy)-         106991 1000152-34-3 64
+                 Undecane, 3-methyl-                 45490 001002-43-3 52
+ 
+ 39  31.325  0.03 D:\MassHunter\Library\NIST20.L
+                 Heptane, 3-ethyl-                   14527 015869-80-4 38
+                 Octane, 2,3-dimethyl-               22101 007146-60-3 35
+                 Heptane, 2,3,6-trimethyl-           22117 004032-93-3 35
+ 
+ 40  31.570  0.16 D:\MassHunter\Library\NIST20.L
+                 Decane, 3,8-dimethyl-               45512 017312-55-9 80
+                 Decane, 3,8-dimethyl-               45507 017312-55-9 72
+                 Octane, 3,6-dimethyl-               22095 015869-94-0 50
+ 
+ 41  31.745  0.69 D:\MassHunter\Library\NIST20.L
+                 5-Ethyldecane                       45482 017302-36-2 90
+                 Hexadecane                         107218 000544-76-3 52
+                 Decane, 2,3,5-trimethyl-            59088 062238-11-3 52
+ 
+ 42  32.171  0.75 D:\MassHunter\Library\NIST20.L
+                 Decane, 4-ethyl-                    45483 001636-44-8 91
+                 Hexadecane, 2,6,10,14-tetramethyl- 176407 000638-36-8 55
+                 Sulfurous acid, hexyl octyl ester  170572 1000309-13-0 53
+ 
+ 43  32.756 17.81 D:\MassHunter\Library\NIST20.L
+                 Undecane, 5-methyl-                 45488 001632-70-8 97
+                 Undecane, 5-methyl-                 45494 001632-70-8 96
+                 Undecane, 5-methyl-                 45495 001632-70-8 94
+ 
+ 44  33.049  8.68 D:\MassHunter\Library\NIST20.L
+                 Undecane, 4-methyl-                 45489 002980-69-0 94
+                 Nonane, 5-butyl-                    59030 017312-63-9 59
+                 Decane, 3,3,5-trimethyl-            59098 062338-13-0 50
+ 
+ 45  33.460 12.40 D:\MassHunter\Library\NIST20.L
+                 Undecane, 2-methyl-                 45493 007045-71-8 93
+                 Undecane, 2-methyl-                 45492 007045-71-8 91
+                 Undecane, 2-methyl-                 45487 007045-71-8 90
+ 
+ 46  33.880  9.84 D:\MassHunter\Library\NIST20.L
+                 Undecane, 3-methyl-                 45490 001002-43-3 90
+                 Decane, 3,8-dimethyl-               45512 017312-55-9 83
+                 Undecane, 3-methyl-                 45498 001002-43-3 78
+ 
+ 47  34.101  0.04 D:\MassHunter\Library\NIST20.L
+                 Silane, trichlorooctadecyl-        292194 000112-04-9 43
+                 Hexadecane                         107219 000544-76-3 38
+                 Undecane                            33077 001120-21-4 38
+ 
+ 48  34.831  0.03 D:\MassHunter\Library\NIST20.L
+                 Cycloheptane, methyl-                7566 004126-78-7 38
+                 Cycloheptane, methyl-                7557 004126-78-7 38
+                 Cyclododecane                       43469 000294-62-2 25
+ 
+ 49  35.017  0.02 D:\MassHunter\Library\NIST20.L
+                 Di-n-decylsulfone                  255613 111530-37-1 53
+                 Cyclotrisiloxane, hexamethyl-      102257 000541-05-9 35
+                 Decane, 1,1'-oxybis-               197437 002456-28-2 30
+ 
+ 50  35.346  0.07 D:\MassHunter\Library\NIST20.L
+                 Cyclododecane                       43467 000294-62-2 45
+                 Octacosyl trifluoroacetate         339001 1000351-74-9 38
+                 Triacontan-15-ol                   321443 031849-26-0 35
+ 
+ 51  35.605  0.05 D:\MassHunter\Library\NIST20.L
+                 Cyclotrisiloxane, hexamethyl-      102258 000541-05-9 35
+                 Hexadecane, 2,6,10,14-tetramethyl- 176407 000638-36-8 14
+                 Dodecane, 2,6,10-trimethyl-         90207 003891-98-3 14
+ 
+ 52  36.174 38.59 D:\MassHunter\Library\NIST20.L
+                 Dodecane                            45480 000112-40-3 95
+                 Dodecane                            45479 000112-40-3 95
+                 Dodecane                            45478 000112-40-3 95
+ 
+ 53  36.412  0.03 D:\MassHunter\Library\NIST20.L
+                 Carbonic acid, decyl undecyl ester 266189 1000383-16-0 68
+                 Carbonic acid, decyl dodecyl ester 279616 1000383-16-1 59
+                 Decane, 2,3,5-trimethyl-            59088 062238-11-3 53
+ 
+ 54  36.638  0.12 D:\MassHunter\Library\NIST20.L
+                 Undecane, 2,4-dimethyl-             59057 017312-80-0 74
+                 Heptane, 2,4-dimethyl-              14544 002213-23-2 68
+                 Heptane, 2,4-dimethyl-              14555 002213-23-2 64
+ 
+ 55  36.876  0.14 D:\MassHunter\Library\NIST20.L
+                 Undecane, 2,6-dimethyl-             59076 017301-23-4 81
+                 Undecane, 2,6-dimethyl-             59069 017301-23-4 72
+                 Undecane, 2,5-dimethyl-             59066 017301-22-3 64
+ 
+ 56  37.153  0.11 D:\MassHunter\Library\NIST20.L
+                 Heneicosane                        194590 000629-94-7 64
+                 Decane, 2,4,6-trimethyl-            59079 062108-27-4 59
+                 Octadecane                         141056 000593-45-3 59
+ 
+ 57  37.401  0.12 D:\MassHunter\Library\NIST20.L
+                 Decane, 5-propyl-                   59032 017312-62-8 94
+                 3-Ethyl-2,6,10-trimethylundecane   107247 1000432-25-9 58
+                 Hexadecane                         107219 000544-76-3 53
+ 
+ 58  37.888  0.06 D:\MassHunter\Library\NIST20.L
+                 Nonadecane, 9-methyl-              176393 013287-24-6 64
+                 Dodecane, 2-methyl-                 59048 001560-97-0 64
+                 Decane, 2,3,6-trimethyl-            59080 062238-12-4 64
+ 
+ 59  38.305  0.06 D:\MassHunter\Library\NIST20.L
+                 Undecane, 2,9-dimethyl-             59059 017301-26-7 38
+                 Octadecane, 1-iodo-                287350 000629-93-6 35
+                 Dodecane, 1-iodo-                  193300 004292-19-7 35
+ 
+ 60  38.528  0.03 D:\MassHunter\Library\NIST20.L
+                 Hexadecane, 7-methyl-              123968 026730-20-1 25
+                 Heptadecane, 7-methyl-             141064 020959-33-5 25
+                 Sulfurous acid, octadecyl 2-propyl 284590 1000309-12-7 22
+                  ester
+ 
+ 61  38.702  0.05 D:\MassHunter\Library\NIST20.L
+                 10-Methylnonadecane                176388 056862-62-5 62
+                 3,5-Dimethyldodecane                74012 107770-99-0 50
+                 Eicosane                           176386 000112-95-8 49
+ 
+ 62  39.161  0.03 D:\MassHunter\Library\NIST20.L
+                 Di-n-decylsulfone                  255613 111530-37-1 35
+                 Undecane, 4-ethyl-                  59033 017312-59-3 22
+                 Decane, 3-ethyl-3-methyl-           59104 017312-66-2 18
+ 
+ 63  39.548  0.07 D:\MassHunter\Library\NIST20.L
+                 Dodecane, 6-methyl-                 59041 006044-71-9 95
+                 Undecane, 2,6-dimethyl-             59076 017301-23-4 90
+                 Undecane, 2,5-dimethyl-             59066 017301-22-3 55
+ 
+ 64  39.677  0.08 D:\MassHunter\Library\NIST20.L
+                 Dodecane, 5-methyl-                 59039 017453-93-9 72
+                 Octane, 4-methyl-                   14526 002216-34-4 53
+                 Heptane, 2,4-dimethyl-              14555 002213-23-2 47
+ 
+ 65  39.812  0.02 D:\MassHunter\Library\NIST20.L
+                 Acetic acid, oxo((1-phenylethyl)am  83388 000093-95-8 25
+                 ino)-, hydrazide
+                 Benzene, (1-methylpentyl)-          37933 006031-02-3 18
+                 Benzene, 1-methyl-2-(1-ethylpropyl  37982 054410-74-1 14
+                 )-
+ 
+ 66  40.020  0.08 D:\MassHunter\Library\NIST20.L
+                 Dodecane, 4-methyl-                 59040 006117-97-1 97
+                 Dodecane, 4-methyl-                 59044 006117-97-1 94
+                 Undecane, 4,8-dimethyl-             59056 017301-33-6 62
+ 
+ 67  40.408  0.06 D:\MassHunter\Library\NIST20.L
+                 Dodecane, 2-methyl-                 59048 001560-97-0 93
+                 Tridecane, 7-propyl-               107221 055045-09-5 58
+                 2-Bromotetradecane                 168307 074036-95-6 58
+ 
+ 68  40.830  0.08 D:\MassHunter\Library\NIST20.L
+                 Undecane, 2,9-dimethyl-             59059 017301-26-7 50
+                 Dodecane, 3-methyl-                 59047 017312-57-1 50
+                 Pentadecane, 6-methyl-             107231 010105-38-1 47
+ 
+ 69  41.993  0.04 D:\MassHunter\Library\NIST20.L
+                 Naphthalene, 2-methyl-              22150 000091-57-6 93
+                 Naphthalene, 1-methyl-              22144 000090-12-0 87
+                 Naphthalene, 1-methyl-              22147 000090-12-0 87
+ 
+ 70  42.881  0.07 D:\MassHunter\Library\NIST20.L
+                 Tridecane                           59028 000629-50-5 95
+                 Tridecane                           59025 000629-50-5 94
+                 Tridecane                           59029 000629-50-5 94
+ 
+
+气体-手动.M 2024-07-03 周三 10:30:54   
