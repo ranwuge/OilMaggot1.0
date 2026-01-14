@@ -1,0 +1,39 @@
+[33m5520b8f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mOilMaggot1.0/master[m[33m)[m HEAD@{0}: checkout: moving from LaptopEdit to master
+[33m5c831db[m[33m ([m[1;31mOilMaggot1.0/LaptopEdit[m[33m, [m[1;32mLaptopEdit[m[33m)[m HEAD@{1}: checkout: moving from master to LaptopEdit
+[33m5520b8f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mOilMaggot1.0/master[m[33m)[m HEAD@{2}: checkout: moving from LaptopEdit to master
+[33m5c831db[m[33m ([m[1;31mOilMaggot1.0/LaptopEdit[m[33m, [m[1;32mLaptopEdit[m[33m)[m HEAD@{3}: rebase (abort): returning to refs/heads/LaptopEdit
+[33m5520b8f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mOilMaggot1.0/master[m[33m)[m HEAD@{4}: rebase (start): checkout refs/heads/master
+[33m5c831db[m[33m ([m[1;31mOilMaggot1.0/LaptopEdit[m[33m, [m[1;32mLaptopEdit[m[33m)[m HEAD@{5}: commit: This commit and push is for synchronizing the works and show the current result to the interviewer
+[33m0d10a3f[m HEAD@{6}: reset: moving to 0d10a3fd3bd4423164f87d9dc252896a92b77daa
+[33mf1dd265[m HEAD@{7}: rebase (abort): returning to refs/heads/LaptopEdit
+[33mb549701[m HEAD@{8}: rebase (start): checkout b549701b1730a3473776a2bde9e70f1a22379654
+[33mf1dd265[m HEAD@{9}: reset: moving to f1dd2652c227e445960b8a152afcc1da56560c77
+[33mf1dd265[m HEAD@{10}: commit: This commit and push is for synchronizing the works
+[33maa157d0[m HEAD@{11}: commit: This commit and push is for synchronizing the works
+[33mb549701[m HEAD@{12}: commit: This commit and push is for synchronizing the works
+[33m933ada5[m HEAD@{13}: commit: This commit and push is for synchronizing the works
+[33ma2a4b3e[m HEAD@{14}: commit: This commit and push is for synchronizing the works
+[33me130eba[m HEAD@{15}: commit: This commit and push is for synchronizing the works
+[33m5a7c14e[m HEAD@{16}: checkout: moving from master to LaptopEdit
+[33m5520b8f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mOilMaggot1.0/master[m[33m)[m HEAD@{17}: checkout: moving from LaptopEdit to master
+[33m5a7c14e[m HEAD@{18}: commit: Initial commit
+[33m0d10a3f[m HEAD@{19}: checkout: moving from master to LaptopEdit
+[33m5520b8f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mOilMaggot1.0/master[m[33m)[m HEAD@{20}: checkout: moving from LaptopEdit to master
+[33m0d10a3f[m HEAD@{21}: Branch: renamed refs/heads/TEST to refs/heads/LaptopEdit
+[33m0d10a3f[m HEAD@{23}: checkout: moving from LaptopEdit to TEST
+[33m0d10a3f[m HEAD@{24}: checkout: moving from TEST to LaptopEdit
+[33m0d10a3f[m HEAD@{25}: checkout: moving from LaptopEdit to TEST
+[33m0d10a3f[m HEAD@{26}: checkout: moving from master to LaptopEdit
+[33m5520b8f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mOilMaggot1.0/master[m[33m)[m HEAD@{27}: checkout: moving from LaptopEdit to master
+[33m0d10a3f[m HEAD@{28}: checkout: moving from laptoped to LaptopEdit
+[33m5520b8f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mOilMaggot1.0/master[m[33m)[m HEAD@{29}: checkout: moving from LaptopEdit to laptoped
+[33m0d10a3f[m HEAD@{30}: checkout: moving from laptoped to LaptopEdit
+[33m5520b8f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mOilMaggot1.0/master[m[33m)[m HEAD@{31}: checkout: moving from LaptopEdit to laptoped
+[33m0d10a3f[m HEAD@{32}: commit (amend): Initial commit
+[33mc8883af[m HEAD@{33}: rebase (abort): returning to refs/heads/LaptopEdit
+[33m5520b8f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mOilMaggot1.0/master[m[33m)[m HEAD@{34}: rebase (start): checkout refs/remotes/OilMaggot1.0/master
+[33mc8883af[m HEAD@{35}: Branch: renamed refs/heads/master to refs/heads/LaptopEdit
+[33mc8883af[m HEAD@{37}: rebase (abort): returning to refs/heads/master
+[33m5520b8f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mOilMaggot1.0/master[m[33m)[m HEAD@{38}: rebase (start): checkout OilMaggot1.0/master
+[33mc8883af[m HEAD@{39}: commit (amend): Initial commit
+[33m5520b8f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31mOilMaggot1.0/master[m[33m)[m HEAD@{40}: commit (initial): Initial commit
